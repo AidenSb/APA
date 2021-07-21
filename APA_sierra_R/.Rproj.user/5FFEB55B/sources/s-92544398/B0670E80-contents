@@ -1,0 +1,52 @@
+library(Seurat)
+library(Sierra)
+
+so_g <- readRDS('/data/APAproject/post_qual/data/Alexandra_Grubman/from_paper/Processed_Merged_AD_healthy_brain.rds')
+
+## make a seurat object
+peak.annotations <- read.table("/data/APAproject/post_qual/data/Alexandra_Grubman/Sierra_outs/Alexandra_Sierra_for_annotations.txt", 
+                               header = TRUE,
+                               sep = "\t",
+                               row.names = 1,
+                               stringsAsFactors = FALSE)
+head(peak.annotations)
+
+peak.counts <- ReadPeakCounts(data.dir = "/data/APAproject/post_qual/data/Alexandra_Grubman/Sierra_outs/Alexandra_Sierra_aggregate")
+p_so <- NewPeakSeurat(peak.data = peak.counts, 
+                              annot.info = peak.annotations, 
+                              min.cells = 0, min.peaks = 1000)
+
+cells = Cells(p_so) 
+new_cells = gsub("_"," ", cells)
+new_cells = gsub('.{1}$', '', new_cells)
+new_cells = gsub('-', '_', new_cells)
+new_cells = gsub(' ', '', new_cells)
+
+uniq = new_cells[!endsWith(new_cells, '.')]
+tst <- new_cells[endsWith(new_cells, '.')]
+
+
+## remove dots
+nodot = gsub('.{1}$', '', tst)
+
+n_occur <- data.frame(table(tst))
+uniq_dot_cells = n_occur[n_occur$Freq < 2,]  ## the cells that stays for now
+recurring_dot_cells = n_occur[n_occur$Freq > 1,]
+
+length(tst)
+
+for (i in 1:length(tst)){
+  tst[i] = paste0(tst[i],as.character(i))
+}
+
+so_cells_in_uniq <- Cells(so_g)[Cells(so_g) %in% uniq]
+
+so_cells_in_nodot <- Cells(so_g)[Cells(so_g) %in% nodot]
+
+##########
+library(dplyr)
+
+cells_batch <- as.data.frame(so_g$batch)
+colnames(cells_batch) <- c('batch')
+
+filter(cells_batch, batch=='AD1_AD2')
