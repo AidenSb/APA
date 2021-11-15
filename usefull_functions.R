@@ -8,7 +8,7 @@ get_relative_pos <- function(pos,sitNum){
     return(relative_loc)
 }
 
-map_to_ref_UTR <- function(peak_id){
+map_to_ref_UTR <- function(peak_id, utr3.ref, all_expressed_peaks_df){
     ## 2- make the query granges to intersect with the reference 3UTR
     strand = sub(".*:.*:.*-.*:(.*)", "\\1", peak_id)
     strand = plyr::mapvalues(x = strand, from = c("1", "-1"), to = c("+", "-"))
@@ -31,10 +31,9 @@ map_to_ref_UTR <- function(peak_id){
 
     peaks_mapped_to_ref_UTR <- data.frame(subject.hit.df,
                                           data.frame(peak_ID=peak.ids, peak_width=query.hit.df$width))
-    peaks_mapped_to_ref_UTR ## the final table with all the peaks mapped to their ref 3UTR
     
     ## get the peaks that expressed in AD
-    idx = which(peaks_mapped_to_ref_UTR$peak_ID %in% tst.peaks.expressed) 
+    idx = which(peaks_mapped_to_ref_UTR$peak_ID %in% all_expressed_peaks_df$peaks) 
     peaks_mapped_to_ref_UTR = peaks_mapped_to_ref_UTR[idx,]
     return(peaks_mapped_to_ref_UTR)
     
@@ -45,6 +44,7 @@ map_to_ref_UTR <- function(peak_id){
 ## proximal non DE peak coordinates
 get_proximal_peak_id <- function(distal_peak, mapped_utrs, df){
     distance = 1e15
+    proximal_id <- 'Not-found'
     for (peak in unlist(unique(mapped_utrs['peak_ID']))){
         if (!peak %in% df$peak_ids){
             strand = sub(".*:.*:.*-.*:(.*)", "\\1", distal_peak)
@@ -53,8 +53,8 @@ get_proximal_peak_id <- function(distal_peak, mapped_utrs, df){
             proximal_p_start = sub(".*:.*:(.*)-.*:.*", "\\1", peak)
             proximal_p_end = sub(".*:.*:.*-(.*):.*", "\\1", peak)
             if (strand=='1'){
-                current_dist <- as.numeric(distal_p_end) - as.numeric(proximal_p_start)
-                if (current_dist <= distance & current_dist > 0){
+                current_dist <- as.numeric(distal_p_end) - as.numeric(proximal_p_end)
+		if (current_dist <= distance & current_dist > 0){
                     distance = current_dist
                     proximal_id <- peak
                 }
@@ -77,20 +77,24 @@ get_proximal_peak_id <- function(distal_peak, mapped_utrs, df){
 # this function returns the peak id of most distal and most proximal( to the distal) of the input gene.
 # arguments:  gene name,   df: the modified version of DetectUTRLengthShift output.
 ## to modify the DetectUTRLengthShift out put use the add_gene_info function
-get_utr <- function(gene, df) {
-    tmp_df <- df %>% filter(gene_id == gene) #ATP1B1
+get_utr <- function(gene, lengthened_utrs_df, all_expressed_peaks_df, utr3.ref) {
+    tmp_df <- lengthened_utrs_df %>% filter(gene_id == gene) #ATP1B1
     tmp_df = tmp_df[tmp_df['SiteLocation']== max(unique(tmp_df['SiteLocation'])),] ## this finds the most distal peak for a gene
     most_distal_peak_id <- as.character(tmp_df$Row.names)
-    peaks_to_map_to_ref_UTR <- as.data.frame(AD.peaks.expressed[which(startsWith(AD.peaks.expressed$AD.peaks.expressed,gene)),])
+    peaks_to_map_to_ref_UTR <- as.data.frame(all_expressed_peaks_df[which(sub("(.*):.*:.*-.*:.*", "\\1", all_expressed_peaks_df$peaks) == gene),])
     colnames(peaks_to_map_to_ref_UTR) <- 'peak_ids'
     # map the expressed peaks of the gene to reference UTR locations
-    mapped_utrs <- map_to_ref_UTR(peaks_to_map_to_ref_UTR$peak_ids)
+    if (nrow(peaks_to_map_to_ref_UTR) >= 1) {
+    mapped_utrs <- map_to_ref_UTR(peaks_to_map_to_ref_UTR$peak_ids, utr3.ref, all_expressed_peaks_df)
     most_proximal_peak_id <- get_proximal_peak_id(most_distal_peak_id,
-                                                  mapped_utrs, df)
+                                                  mapped_utrs, lengthened_utrs_df)
 
     res <- list(result= c(gene,most_distal_peak_id, most_proximal_peak_id),
                 all_peaks=peaks_to_map_to_ref_UTR, mapped_utrs=mapped_utrs)
     dis_prox <- c(most_distal_peak_id, most_proximal_peak_id)
+    } else {
+	    dis_prox <- c(most_distal_peak_id, 'Not-found')
+    }
     return(dis_prox)
     
 }
@@ -158,7 +162,20 @@ add_gene_peak_info <- function(test.res, peak.annotations){
 
 }
 
-
+############################################################################################
+### a function to operate on the output of DetectUTRshift function,  it adds the information to the 
+### df and then extract the significant longer UTRs and then return those genes names
+### arguments:  dataframe from DetectUTRshift,   output: list of genes with significant UTR lengtheneing
+get_sig_longer_UTRs <- function(df){
+    df2 <- add_gene_peak_info(df, peak.annotations)
+    df2 <- df2 %>% filter(Log2_fold_change >= .5)
+    df2['peak_relative_postion'] <- mapply(get_relative_pos, df2$SiteLocation, df2$NumSites)
+    df2 <- df2 %>% filter(peak_relative_postion >= 0.5)
+    df2$peak_ids <- df2$Row.names
+    genes_to_operate <- data.frame(unique(df2['gene_id']))
+    res <- list(genes=genes_to_operate, df=df2)
+    return(res)
+}
 
 
 
