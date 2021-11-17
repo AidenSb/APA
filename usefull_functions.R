@@ -178,4 +178,59 @@ get_sig_longer_UTRs <- function(df){
 }
 
 
+#######################################################################################
+#######################################################################################
+######### wrapper########################33
 
+get_UTR_seqs <- function(results, so, peaks_ann, gtf_TxDb){
+    ### 2-  get the reference UTR regions for all the genes
+    utr3.ref <- GenomicFeatures::threeUTRsByTranscript(gtf_TxDb)
+    utr3.ref <- unlist(utr3.ref)
+    for (case in results){
+        tryCatch(
+            {
+            name <- case[[1]]
+            df <- get(case[[2]])
+            print(paste('processing the ', name, 'results'))
+
+
+
+            ### 4- get all the expressed peaks in the cell population you are studying
+            all.peaks.expressed <- as.data.frame(GetExpressedPeaks(so,
+                                                                   population.1 = name))
+            colnames(all.peaks.expressed) <- 'peaks'
+
+            ### 5- get the significantly lengthened and expressed UTRs with the designed function
+            ###    this will add more info to the input data frame
+            res <- get_sig_longer_UTRs(df)
+            tmp_genes_to_operate <- res[['genes']]
+            tmp_lenghtened_UTRs <- res[['df']]
+
+            ### 6- get the utr region using the distal and proximal peaks locations.
+            ###    there are a lot going on in this step to identify the right expressed
+            ###    most proximal peak location and then retruning proximal and distal peak locations for genes
+            tmp_lengthened_genes_UTR_reg <- invisible(lapply(X = tmp_genes_to_operate$gene_id,FUN = get_utr,
+                                                             lengthened_utrs_df=tmp_lenghtened_UTRs,
+                                                             all_expressed_peaks_df=all.peaks.expressed,
+                                                             utr3.ref=utr3.ref))
+            tmp_lengthened_genes_UTR_reg <- t(as.data.frame(tmp_lengthened_genes_UTR_reg, col.names=F))
+            colnames(tmp_lengthened_genes_UTR_reg) <- c('distal_peak', 'proximal_peak')
+            tmp_Genes_dis_prox_df <- data.frame(tmp_genes_to_operate, tmp_lengthened_genes_UTR_reg)
+            tmp_Genes_dis_prox_df = tmp_Genes_dis_prox_df[!grepl("Not-found", tmp_Genes_dis_prox_df$proximal_peak),]
+
+
+            ### 7- get the bed file for the UTR region between most proximal and distal peaks and save the file
+            tmp_lengthened_UTR_region_bed <- get_utr_bed_file(tmp_Genes_dis_prox_df)
+            outname <- paste0('results/',name,'_upregulated_longer_utr_region.bed')
+            write.table(tmp_lengthened_UTR_region_bed['bed_out'], file=outname,
+                       row.names=F, col.names=F, quote=F)
+                },
+            error=function(cond) {
+                message(paste("couldnt get any UTR seqs for the population:", name))
+                message("Here's the original error message:")
+                message(cond)
+                # Choose a return value in case of error
+                return(NA)
+            })
+    }
+}
