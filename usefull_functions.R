@@ -166,7 +166,7 @@ add_gene_peak_info <- function(test.res, peak.annotations){
 ### a function to operate on the output of DetectUTRshift function,  it adds the information to the 
 ### df and then extract the significant longer UTRs and then return those genes names
 ### arguments:  dataframe from DetectUTRshift,   output: list of genes with significant UTR lengtheneing
-get_sig_longer_UTRs <- function(df){
+get_sig_longer_UTRs <- function(df, peak.annotations){
     df2 <- add_gene_peak_info(df, peak.annotations)
     df2 <- df2 %>% filter(Log2_fold_change >= .5)
     df2['peak_relative_postion'] <- mapply(get_relative_pos, df2$SiteLocation, df2$NumSites)
@@ -202,25 +202,25 @@ get_UTR_seqs <- function(results, so, peaks_ann, gtf_TxDb){
 
             ### 5- get the significantly lengthened and expressed UTRs with the designed function
             ###    this will add more info to the input data frame
-            res <- get_sig_longer_UTRs(df)
+            res <- get_sig_longer_UTRs(df,peaks_ann)
             tmp_genes_to_operate <- res[['genes']]
             tmp_lenghtened_UTRs <- res[['df']]
 
             ### 6- get the utr region using the distal and proximal peaks locations.
             ###    there are a lot going on in this step to identify the right expressed
             ###    most proximal peak location and then retruning proximal and distal peak locations for genes
-            tmp_lengthened_genes_UTR_reg <- invisible(lapply(X = tmp_genes_to_operate$gene_id,FUN = get_utr,
+	    tmp_lengthened_genes_UTR_reg <- invisible(lapply(X = tmp_genes_to_operate$gene_id,FUN = get_utr,
                                                              lengthened_utrs_df=tmp_lenghtened_UTRs,
                                                              all_expressed_peaks_df=all.peaks.expressed,
                                                              utr3.ref=utr3.ref))
-            tmp_lengthened_genes_UTR_reg <- t(as.data.frame(tmp_lengthened_genes_UTR_reg, col.names=F))
+	    tmp_lengthened_genes_UTR_reg <- t(as.data.frame(tmp_lengthened_genes_UTR_reg, col.names=F))
             colnames(tmp_lengthened_genes_UTR_reg) <- c('distal_peak', 'proximal_peak')
             tmp_Genes_dis_prox_df <- data.frame(tmp_genes_to_operate, tmp_lengthened_genes_UTR_reg)
             tmp_Genes_dis_prox_df = tmp_Genes_dis_prox_df[!grepl("Not-found", tmp_Genes_dis_prox_df$proximal_peak),]
 
 
             ### 7- get the bed file for the UTR region between most proximal and distal peaks and save the file
-            tmp_lengthened_UTR_region_bed <- get_utr_bed_file(tmp_Genes_dis_prox_df)
+	    tmp_lengthened_UTR_region_bed <- get_utr_bed_file(tmp_Genes_dis_prox_df)
             outname <- paste0('results/',name,'_upregulated_longer_utr_region.bed')
             write.table(tmp_lengthened_UTR_region_bed['bed_out'], file=outname,
                        row.names=F, col.names=F, quote=F)
