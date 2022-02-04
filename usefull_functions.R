@@ -213,6 +213,12 @@ get_UTR_seqs <- function(results, so, peaks_ann, gtf_TxDb){
                                                              lengthened_utrs_df=tmp_lenghtened_UTRs,
                                                              all_expressed_peaks_df=all.peaks.expressed,
                                                              utr3.ref=utr3.ref))
+	    for (i in 1:length(tmp_lengthened_genes_UTR_reg)){
+    		if (length(tmp_lengthened_genes_UTR_reg[[i]]) > 2){
+        	tmp_lengthened_genes_UTR_reg[[i]] <- tmp_lengthened_genes_UTR_reg[[i]][1:2]
+    		}
+		}
+	    tmp_lengthened_genes_UTR_reg <- data.frame(tmp_lengthened_genes_UTR_reg)
 	    tmp_lengthened_genes_UTR_reg <- t(as.data.frame(tmp_lengthened_genes_UTR_reg, col.names=F))
             colnames(tmp_lengthened_genes_UTR_reg) <- c('distal_peak', 'proximal_peak')
             tmp_Genes_dis_prox_df <- data.frame(tmp_genes_to_operate, tmp_lengthened_genes_UTR_reg)
