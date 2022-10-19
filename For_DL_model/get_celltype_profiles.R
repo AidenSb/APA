@@ -107,9 +107,8 @@ Convert("/data1/APA/Paul_ALS_Data/als.h5Seurat", dest = "h5ad")
 
 
 ######## lets do this with scVI
-
+library(Seurat)
 library(reticulate)
-library(seurat-data)
 library(SeuratData)
 library(devtools)
 devtools::install_github("cellgeni/sceasy")
@@ -122,3 +121,148 @@ sc <- import("scanpy", convert = FALSE)
 scvi <- import("scvi", convert = FALSE)
 adata <- convertFormat(ge_so, from="seurat", to="anndata", main_layer="counts", drop_single_values=FALSE)
 print(adata) #
+
+# run setup_anndata
+scvi$model$SCVI$setup_anndata(adata)
+
+# create the model
+model = scvi$model$SCVI(adata)
+
+# train the model
+model$train()
+
+# get the latent represenation
+latent = model$get_latent_representation()
+
+# put it back in our original Seurat object
+latent <- as.matrix(latent)
+rownames(latent) = colnames(ge_so)
+ge_so[["scvi"]] <- CreateDimReducObject(embeddings = latent, key = "scvi_", assay = DefaultAssay(ge_so))
+
+ge_so <- FindNeighbors(ge_so, dims = 1:10, reduction = "scvi")
+ge_so <- FindClusters(ge_so, resolution =1)
+
+ge_so <- RunUMAP(ge_so, dims = 1:10, reduction = "scvi", n.components = 2)
+
+ge_so <- SetIdent(ge_so, value = ge_so$Velm_cellsubtype)
+DimPlot(ge_so, reduction = "umap", pt.size = 0.2)
+
+
+ge_so <- SetIdent(ge_so, value = ge_so$diagnosis_Velm_cellsubtype)
+
+tst = FindMarkers(
+  ge_so,
+  ident.1 = 'C9ALSFTLD_Oligodendrocytes',
+  ident.2 = 'control_Oligodendrocytes',
+  assay = NULL,
+  slot = "data",
+  reduction = 'scvi')
+
+tdim(tst)
+
+## ok it works I can get 10 dim profiles.... need to run c9ALS-celltype vs control
+
+table(ge_so$diagnosis)
+simplfy_diag <- function(x){
+  out = 'C9noALS'
+  if (grepl('control', x, fixed = TRUE)){
+    out = 'CTRL'
+  }
+  if (grepl('C9ALS', x, fixed = TRUE)){
+    out = 'C9ALS'
+  }
+  if (grepl('sALS', x, fixed = TRUE)){
+    out = 'sALS'
+  }
+  return(out)
+}
+
+tst = data.frame(ge_so$diagnosis)
+ge_so$simple_diagnosis <- apply(tst,MARGIN=1,FUN=simplfy_diag )
+table(ge_so$simple_diagnosis)
+
+ge_so$diagnosis_celltype <- paste0(ge_so$simple_diagnosis,'_', ge_so$celltype)
+
+table(ge_so$diagnosis_celltype)
+ge_so <- SetIdent(ge_so, value = ge_so$diagnosis_celltype)
+# make C9ALS profiles:
+profiles <- list()
+for (ct in unique(ge_so$celltype)){
+  diff <- FindMarkers(
+    ge_so,
+    ident.1 = paste0('C9ALS_', ct),
+    ident.2 = paste0('CTRL_', ct),
+    assay = NULL,
+    slot = "data",
+    reduction = 'scvi')
+  profiles[[ct]] <- diff$avg_diff
+}
+
+##
+
+c9als_profiles <- data.frame(profiles)
+
+
+
+profiles <- list()
+for (ct in unique(ge_so$celltype)){
+  diff <- FindMarkers(
+    ge_so,
+    ident.1 = paste0('sALS_', ct),
+    ident.2 = paste0('CTRL_', ct),
+    assay = NULL,
+    slot = "data",
+    reduction = 'scvi')
+  profiles[[ct]] <- diff$avg_diff
+}
+
+sAls_profiles <- data.frame(profiles)
+
+
+write.table(c9als_profiles, '/data1/APA/Paul_ALS_Data/bams_in/subscelltype_bamfiles/Mapper_outs/data_for_DL/C9ALS_CTRL_profiles.tsv', sep='\t',
+           quote=F)
+
+
+write.table(sAls_profiles, '/data1/APA/Paul_ALS_Data/bams_in/subscelltype_bamfiles/Mapper_outs/data_for_DL/sALS_CTRL_profiles.tsv', sep='\t',
+            quote=F)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### digress part
+####  getting the Astrocytes bam files 
+ct <- 'Astrocytes'
+so <- subset(ge_so, subset=celltype == 'Astrocytes')
+so$cellnames <- Cells(so)
+cell_sample_df <- data.frame(cells= so$cellnames, sample=so$sample)
+for (sample in unique(so$sample)){
+  tmp_df <- cell_sample_df[cell_sample_df$sample == sample,]
+  tmp_df <- tmp_df %>% mutate(bc= sub(".*_(.*)","\\1",cells))
+  outname <- paste0('/data1/APA/Paul_ALS_Data/bams_in/subscelltype_bamfiles/',ct,'/',sample,'_barcodes.tsv')
+  write.table(tmp_df$bc, file=outname, quote=F, row.names=F, col.names=F)
+}
+filename <- paste0("/data1/APA/Paul_ALS_Data/bams_in/subscelltype_bamfiles/",ct,"/subset_bamfiles.sh")
+outfile <- file(filename)
+outlines = c()
+for (sample in unique(so$sample)){
+  bc = paste0(sample,'_barcodes.tsv')
+  bamfiles = paste0(' /data1/APA/Paul_ALS_Data/bams_in/',sample,'_filtered.bam')
+  outname = paste0(" ",sample,'_CTfiltered.bam')
+  subset_arg = '~/softwares/subset_bam --bam '
+  bc_arg = ' --cell-barcodes '
+  out_arg = ' --out-bam'
+  outline = paste0(subset_arg,bamfiles, bc_arg, bc, out_arg,outname, " &")
+  outlines <- append(outlines, outline)
+}
+writeLines(outlines, outfile)
+close(outfile)
