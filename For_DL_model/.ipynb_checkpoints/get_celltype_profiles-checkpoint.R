@@ -226,46 +226,18 @@ write.table(c9als_profiles, '/data1/APA/Paul_ALS_Data/bams_in/subscelltype_bamfi
 write.table(sAls_profiles, '/data1/APA/Paul_ALS_Data/bams_in/subscelltype_bamfiles/Mapper_outs/data_for_DL/sALS_CTRL_profiles.tsv', sep='\t',
             quote=F)
 
-## lets save the 
-sub_cells <- c()
-
-for (ct in unique(ge_so$diagnosis_Velm_cellsubtype)){
-  if (grepl( 'control', ct, fixed = TRUE)){
-    sub_cells <- c(sub_cells, ct)
-  }
-}
-
-main_cells <- c()
-
-for (ct in unique(ge_so$diagnosis_celltype)){
-  if (grepl( 'CTRL', ct, fixed = TRUE)){
-    main_cells <- c(main_cells, ct)
-  }
-}
 
 
 
-all_avg_embeddings = list()
-for (sub_ct in sub_cells){
-  idx = which(ge_so$diagnosis_Velm_cellsubtype == sub_ct)
-  all_avg_embeddings[[sub_ct]] <- colMeans(Embeddings(object = ge_so[["scvi"]])[idx,])
-}
 
-for (sub_ct in main_cells){
-  idx = which(ge_so$diagnosis_celltype == sub_ct)
-  all_avg_embeddings[[sub_ct]] <- colMeans(Embeddings(object = ge_so[["scvi"]])[idx,])
-}
 
-ctrl_profile <- data.frame(all_avg_embeddings)
-colnames(ctrl_profile) <- c("L5_6_CC","Oligodendrocytes","AST_PP","IN_SST", "Microglia", "OPC","L2_3","IN_VIP",
-                            "IN_PV", "L4","AST_FB", "IN_SV2C" ,"L5_6","Endothelial","Excitatory", "Oligodendrocytes",
-                            "Astrocytes","Inhibitory","Microglia","OPC","Endothelial")
 
-write.table(ctrl_profile, '/data1/APA/Paul_ALS_Data/bams_in/subscelltype_bamfiles/Mapper_outs/data_for_DL/all_ctrl_embeddings.csv',
-            sep=',',quote=F)
 
-## lets save
-saveRDS(ge_so, '/data1/APA/Paul_ALS_Data/ALS_snRNA_final_with_scVI.RDS')
+
+
+
+
+
 
 ### digress part
 ####  getting the Astrocytes bam files 
@@ -294,10 +266,3 @@ for (sample in unique(so$sample)){
 }
 writeLines(outlines, outfile)
 close(outfile)
-
-#########
-
-# lets get the 10d vector per diagnasis_Velm_ct and diagnasosi_main_CT
-
-table(ge_so$celltype)
-
