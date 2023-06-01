@@ -1,0 +1,1865 @@
+"","term_name","genes","APA_effect"
+"1","nuclear lumen","SPECC1",-3.4162688172043
+"2","nuclear lumen","RPS6KA1",5.8134469273743
+"3","nuclear lumen","CLK3",2.45741052631579
+"4","nuclear lumen","DEDD",-13.2049449541284
+"5","nuclear lumen","INTS13",1.64439655172414
+"6","nuclear lumen","ETV6",2.57494017094017
+"7","nuclear lumen","RIOX1",7.15940740740741
+"8","nuclear lumen","MEX3B",1.79981451612903
+"9","nuclear lumen","UQCRC2",2.12704950495049
+"10","nuclear lumen","FEN1",4.31461184210526
+"11","nuclear lumen","PNISR",-0.52151724137931
+"12","nuclear lumen","ATXN7",-0.89154347826087
+"13","nuclear lumen","TRA2A",4.39981538461538
+"14","nuclear lumen","USF2",-0.597047999999999
+"15","nuclear lumen","KDM2B",2.27852380952381
+"16","nuclear lumen","PDHA1",-2.18873913043478
+"17","nuclear lumen","EXTL2",1.6248137254902
+"18","nuclear lumen","RELB",-3.97656198347107
+"19","nuclear lumen","HOXA4",-2.52135294117647
+"20","nuclear lumen","IQCB1",3.15711111111111
+"21","nuclear lumen","SMARCD3",-1.1427265625
+"22","nuclear lumen","RAN",1.03645637583893
+"23","nuclear lumen","PIP4K2A",-1.61302830188679
+"24","nuclear lumen","WDFY1",0.606083832335329
+"25","nuclear lumen","DDB1",5.01763157894737
+"26","nuclear lumen","NR2F6",0.872768595041322
+"27","nuclear lumen","CCND3",7.12449056603773
+"28","nuclear lumen","MDN1",0.160052631578947
+"29","nuclear lumen","STK35",4.10355371900826
+"30","nuclear lumen","CCDC106",0.208837209302326
+"31","nuclear lumen","DDX49",6.36738461538462
+"32","nuclear lumen","KLHDC2",-2.19448905109489
+"33","nuclear lumen","PAPOLG",2.60093373493976
+"34","nuclear lumen","PAFAH1B2",2.25670833333333
+"35","nuclear lumen","BRAT1",4.42427358490566
+"36","nuclear lumen","MYCBP",-1.96327118644068
+"37","nuclear lumen","MRPL10",1.50116666666667
+"38","nuclear lumen","LYRM1",0.756763157894737
+"39","nuclear lumen","ZMYND8",1.73054455445545
+"40","nuclear lumen","ARL4A",1.07961764705882
+"41","nuclear lumen","NDUFB4",2.43389102564103
+"42","nuclear lumen","MNX1",1.3237641509434
+"43","nuclear lumen","DDX55",3.82707482993197
+"44","nuclear lumen","KEL",0.401972727272727
+"45","nuclear lumen","MRPL58",4.05040963855422
+"46","nuclear lumen","PHAX",-6.67290434782609
+"47","nuclear lumen","SRSF5",4.95079207920792
+"48","nuclear lumen","PDCD6",4.2508220338983
+"49","nuclear lumen","PROX1",-3.03971559633027
+"50","nuclear lumen","ID1",7.06989108910891
+"51","nuclear lumen","UBE2D3",2.25707818930041
+"52","nuclear lumen","NIP7",8.27125454545454
+"53","nuclear lumen","EGLN2",-1.47025196850394
+"54","nuclear lumen","MED6",1.73226993865031
+"55","nuclear lumen","ETV3",1.64311875
+"56","nuclear lumen","GPI",2.03670297029703
+"57","nuclear lumen","ZHX1",2.17730630630631
+"58","nuclear lumen","UTRN",-4.75834745762712
+"59","nuclear lumen","PHF13",-1.96780582524272
+"60","nuclear lumen","CBY1",0.247319327731092
+"61","nuclear lumen","COMMD9",-0.0726310679611649
+"62","nuclear lumen","GTF3C4",6.39512727272727
+"63","nuclear lumen","PURB",1.18850694444444
+"64","nuclear lumen","GTF3C5",4.84515217391304
+"65","nuclear lumen","RBAK",2.45651829268293
+"66","nuclear lumen","PEA15",2.79634545454545
+"67","nuclear lumen","TAF13",5.4725701754386
+"68","nuclear lumen","ZNF74",3.83675384615385
+"69","nuclear lumen","SCNM1",1.587779342723
+"70","nuclear lumen","POLR2E",4.02520567375887
+"71","nuclear lumen","NABP2",-6.67660839160839
+"72","nuclear lumen","CUX1",5.06254385964912
+"73","nuclear lumen","GLYR1",8.03013725490196
+"74","nuclear lumen","RO60",4.77161931818182
+"75","nuclear lumen","MAPK9",3.30087248322148
+"76","nuclear lumen","CTSC",1.8764380952381
+"77","nuclear lumen","CPSF7",3.21877941176471
+"78","nuclear lumen","DENND4B",1.57208383233533
+"79","nuclear lumen","CCDC92",0.946791666666667
+"80","nuclear lumen","PPP1CB",3.73917518248175
+"81","nuclear lumen","ILKAP",3.99170542635659
+"82","nuclear lumen","SOX4",-1.20075454545455
+"83","nuclear lumen","USP42",3.51266666666667
+"84","nuclear lumen","TBXT",3.01036936936937
+"85","nuclear lumen","TKT",-1.29706542056075
+"86","nuclear lumen","FOXO4",1.48817391304348
+"87","nuclear lumen","DECR1",3.43699082568807
+"88","nuclear lumen","KLHL8",2.80763636363636
+"89","nuclear lumen","PPARD",4.18376
+"90","nuclear lumen","SLC25A10",2.04979439252336
+"91","nuclear lumen","KLF9",-5.19609375
+"92","nuclear lumen","ANAPC15",2.67393617021277
+"93","nuclear lumen","NOP56",3.38707518796992
+"94","nuclear lumen","UBE2D2",-14.561704
+"95","nuclear lumen","KIN",7.88348623853211
+"96","nuclear lumen","RTCA",7.88217073170732
+"97","nuclear lumen","AFF4",2.72306944444444
+"98","nuclear lumen","ACIN1",2.46399107142857
+"99","nuclear lumen","UBA1",4.80256074766355
+"100","nuclear lumen","FSTL3",3.2584
+"101","nuclear lumen","UNC45A",2.53985496183206
+"102","nuclear lumen","NFIB",-2.93631147540984
+"103","nuclear lumen","ENSA",12.498738317757
+"104","nuclear lumen","DPH1",-0.954919708029197
+"105","nuclear lumen","NUP214",-3.63948502994012
+"106","nuclear lumen","TRAF7",3.21849572649573
+"107","nuclear lumen","ELP5",-9.37112621359224
+"108","nuclear lumen","NPHP4",7.48679032258065
+"109","nuclear lumen","PRKX",3.52059090909091
+"110","nuclear lumen","TEAD3",-6.41766137566138
+"111","nuclear lumen","SNF8",5.75875454545455
+"112","nuclear lumen","NUP93",5.19466153846154
+"113","nuclear lumen","PYGO2",6.52277777777778
+"114","nuclear lumen","MINDY3",1.65376056338028
+"115","nuclear lumen","SKI",4.09915315315315
+"116","nuclear lumen","METTL14",-1.04201829268293
+"117","nuclear lumen","ARMC8",3.07241803278689
+"118","nuclear lumen","CASZ1",3.25991240875912
+"119","nuclear lumen","EXO1",2.69081818181818
+"120","nuclear lumen","MED1",8.64577777777778
+"121","nuclear lumen","LRRC8C",-1.62393220338983
+"122","nuclear lumen","KDM2A",-2.39808823529412
+"123","nuclear lumen","NABP1",4.65725714285714
+"124","nuclear lumen","ELK4",3.20176923076923
+"125","nuclear lumen","IRF2BPL",6.63539285714286
+"126","nuclear lumen","FBXL4",2.42316831683168
+"127","nuclear lumen","LANCL2",2.97067961165049
+"128","nuclear lumen","CKAP5",4.7312695035461
+"129","nuclear lumen","CRKL",2.09696551724138
+"130","nuclear lumen","ORC4",5.63190291262136
+"131","nuclear lumen","RTEL1",0.433752212389381
+"132","nuclear lumen","RNF126",3.58144144144144
+"133","nuclear lumen","MECOM",3.12173684210526
+"134","nuclear lumen","HNRNPC",35.3681188118812
+"135","nuclear lumen","SEC14L1",4.81046788990826
+"136","nuclear lumen","PACSIN2",5.79434259259259
+"137","nuclear lumen","CLASRP",3.02285148514851
+"138","nuclear lumen","TSEN15",3.9753963963964
+"139","nuclear lumen","RBM15B",26.4460471698113
+"140","nuclear lumen","LIN54",-0.207485714285714
+"141","nuclear lumen","HOMEZ",6.61112230215827
+"142","nuclear lumen","ELP2",4.15764444444444
+"143","nuclear lumen","MYO1C",3.39400609756098
+"144","nuclear lumen","IFITM2",8.54475652173913
+"145","nuclear lumen","ZNF572",0.739692307692308
+"146","nuclear lumen","PPM1B",-2.31079824561404
+"147","nuclear lumen","DDX50",3.66357798165138
+"148","nuclear lumen","KIF2A",6.20044144144144
+"149","nuclear lumen","TAF15",10.1749504950495
+"150","nuclear lumen","MZF1",1.55219402985075
+"151","nuclear lumen","STAU2",-0.331090909090907
+"152","nuclear lumen","TFDP1",-2.10745283018868
+"153","nuclear lumen","PARP2",1.1843305785124
+"154","nuclear lumen","POC5",-0.970405940594059
+"155","nuclear lumen","APTX",4.42977450980392
+"156","nuclear lumen","RBM12B",5.02642201834863
+"157","nuclear lumen","NUCKS1",-0.917269938650307
+"158","nuclear lumen","HNRNPUL1",-0.358553398058253
+"159","nuclear lumen","CDK2AP1",-1.97011009174312
+"160","nuclear lumen","TWIST1",5.05020661157025
+"161","nuclear lumen","PLSCR1",2.01127272727273
+"162","nuclear lumen","RBL2",-0.804036363636364
+"163","nuclear lumen","PIF1",1.89132638888889
+"164","nuclear lumen","ZNF232",6.38981372549019
+"165","nuclear lumen","NUP205",-0.53092125984252
+"166","nuclear lumen","HOXA3",-9.12504716981132
+"167","nuclear lumen","NR5A1",-4.96371287128713
+"168","nuclear lumen","UBE2N",-3.11134965034965
+"169","nuclear lumen","CPNE1",0.371912408759124
+"170","nuclear lumen","MTA2",5.42431355932203
+"171","nuclear lumen","ETS1",-3.59953271028037
+"172","nuclear lumen","MZT2B",2.25278378378378
+"173","nuclear lumen","ZC3H12A",6.20014285714286
+"174","nuclear lumen","PEX2",3.83511650485437
+"175","nuclear lumen","FOXI1",1.44487428571429
+"176","nuclear lumen","KAT2A",5.3169014084507
+"177","nuclear lumen","NFATC2",-1.75001234567901
+"178","nuclear lumen","ATF1",-0.150587155963303
+"179","nuclear lumen","NDUFB6",0.199098039215686
+"180","nuclear lumen","FBLIM1",2.22808
+"181","nuclear lumen","RARA",5.0905375
+"182","nuclear lumen","RPA1",0.684604651162791
+"183","nuclear lumen","ABCB6",5.7919298245614
+"184","nuclear lumen","ZEB1",-5.49546601941748
+"185","nuclear lumen","ZIC3",1.35415833333333
+"186","nuclear lumen","THUMPD3",8.21067961165049
+"187","nuclear lumen","KLF11",0.399168421052632
+"188","nuclear lumen","BCOR",-0.450338842975207
+"189","nuclear lumen","BNIP3L",-2.74855797101449
+"190","nuclear lumen","SMURF1",1.72982926829268
+"191","nuclear lumen","HOXC8",2.79115596330275
+"192","nuclear lumen","ATXN7L3",3.88531693989071
+"193","nuclear lumen","WDR43",1.99016030534351
+"194","nuclear lumen","MLLT3",-0.51181954887218
+"195","nuclear lumen","GOLGA4",4.76328037383178
+"196","nuclear lumen","URB2",-2.44279245283019
+"197","nuclear lumen","ZBTB7A",-0.985745098039216
+"198","nuclear lumen","INKA2",3.6535625
+"199","nuclear lumen","CYB561A3",-3.15309900990099
+"200","nuclear lumen","GTPBP10",1.80803361344538
+"201","nuclear lumen","GIT2",2.0270396039604
+"202","nuclear lumen","NDUFAB1",5.70169607843137
+"203","nuclear lumen","GEMIN7",0.0499374999999994
+"204","nuclear lumen","CRYAB",2.01402362204724
+"205","nuclear lumen","TDP1",4.54433846153846
+"206","nuclear lumen","PTEN",2.91622330097087
+"207","nuclear lumen","MRPL36",7.07326470588235
+"208","nuclear lumen","CDC34",3.49206923076923
+"209","nuclear lumen","FNBP4",-9.29251724137931
+"210","nuclear lumen","DCTN3",2.87135398230089
+"211","nuclear lumen","FEM1B",2.34133653846154
+"212","nuclear lumen","SENP3",-5.47067272727273
+"213","nuclear lumen","LSM10",0.531058252427184
+"214","nuclear lumen","SF3A1",-0.551858757062147
+"215","nuclear lumen","DHX33",-4.62216822429907
+"216","nuclear lumen","HAUS7",-5.2447264957265
+"217","nuclear lumen","SETD7",-1.32493442622951
+"218","nuclear lumen","BLVRB",2.15139751552795
+"219","nuclear lumen","MAGED2",0.551802325581395
+"220","nuclear lumen","BRIP1",8.08720134228188
+"221","nuclear lumen","NFRKB",4.45057142857143
+"222","nuclear lumen","RCHY1",1.8906511627907
+"223","nuclear lumen","RBM4B",-2.30054368932039
+"224","nuclear lumen","EPB41L5",11.4627253521127
+"225","nuclear lumen","TBCA",6.43719230769231
+"226","nuclear lumen","ARNTL2",1.20788333333333
+"227","nuclear lumen","POLD4",-0.759066176470588
+"228","nuclear lumen","RPS20",9.51228947368421
+"229","nuclear lumen","TRNT1",2.48669523809524
+"230","nuclear lumen","TFCP2",2.96547580645161
+"231","nuclear lumen","HLCS",-4.32355339805825
+"232","nuclear lumen","PDX1",0.454629310344827
+"233","nuclear lumen","UBA2",2.28076923076923
+"234","nuclear lumen","SPTY2D1",4.79370192307692
+"235","nuclear lumen","PPP1R12A",-4.22255156950673
+"236","nuclear lumen","RMND5A",1.51283050847458
+"237","nuclear lumen","RECQL4",1.23823931623932
+"238","nuclear lumen","HTATSF1",5.96941176470588
+"239","nuclear lumen","PIR",9.55933333333333
+"240","nuclear lumen","AAAS",1.61245323741007
+"241","nuclear lumen","HIPK2",6.73891262135922
+"242","nuclear lumen","ARHGAP18",-1.623925
+"243","nuclear lumen","XPO6",4.47857324840764
+"244","nuclear lumen","RERE",5.81490196078431
+"245","nuclear lumen","EPB41L2",-2.08785714285714
+"246","nuclear lumen","PSMB5",1.66389380530973
+"247","cytoplasm","SPECC1",-3.4162688172043
+"248","cytoplasm","RPS6KA1",5.8134469273743
+"249","cytoplasm","PXMP4",-2.67267226890756
+"250","cytoplasm","CLK3",2.45741052631579
+"251","cytoplasm","DEDD",-13.2049449541284
+"252","cytoplasm","INTS13",1.64439655172414
+"253","cytoplasm","ETV6",2.57494017094017
+"254","cytoplasm","SARS2",3.26954954954955
+"255","cytoplasm","CORO1C",1.08722754491018
+"256","cytoplasm","TFB2M",-2.28904081632653
+"257","cytoplasm","SERPINF1",-2.29405940594059
+"258","cytoplasm","MEX3B",1.79981451612903
+"259","cytoplasm","UQCRC2",2.12704950495049
+"260","cytoplasm","FEN1",4.31461184210526
+"261","cytoplasm","SYNGR3",5.29176630434783
+"262","cytoplasm","FBXL14",-5.48871515151515
+"263","cytoplasm","PNISR",-0.52151724137931
+"264","cytoplasm","ATXN7",-0.89154347826087
+"265","cytoplasm","BCAP31",-1.748675
+"266","cytoplasm","IPO9",0.328263636363637
+"267","cytoplasm","MRPS24",2.49590825688073
+"268","cytoplasm","SH2B3",0.631428571428571
+"269","cytoplasm","PAIP1",3.92945192307692
+"270","cytoplasm","RSAD1",2.86391379310345
+"271","cytoplasm","CEP44",9.56950925925926
+"272","cytoplasm","HMBS",2.15839393939394
+"273","cytoplasm","TAOK3",3.96328461538462
+"274","cytoplasm","KRT10",-2.68233720930232
+"275","cytoplasm","PDHA1",-2.18873913043478
+"276","cytoplasm","CISD3",2.76220967741935
+"277","cytoplasm","EXTL2",1.6248137254902
+"278","cytoplasm","AIMP1",0.580375
+"279","cytoplasm","RELB",-3.97656198347107
+"280","cytoplasm","RAP1GAP",3.3941098265896
+"281","cytoplasm","APEH",5.3319674796748
+"282","cytoplasm","VPS37B",-7.7559702970297
+"283","cytoplasm","USP6NL",4.85755238095238
+"284","cytoplasm","IQCB1",3.15711111111111
+"285","cytoplasm","ZNF268",1.94423770491803
+"286","cytoplasm","SMARCD3",-1.1427265625
+"287","cytoplasm","GRHPR",5.9771746031746
+"288","cytoplasm","RAN",1.03645637583893
+"289","cytoplasm","BLOC1S3",-1.03840517241379
+"290","cytoplasm","PIP4K2A",-1.61302830188679
+"291","cytoplasm","GCSH",-2.93754545454546
+"292","cytoplasm","EEF2",3.37235151515152
+"293","cytoplasm","SEC11C",1.63325
+"294","cytoplasm","CDC37",4.60819130434782
+"295","cytoplasm","WDFY1",0.606083832335329
+"296","cytoplasm","RNF166",3.42830188679245
+"297","cytoplasm","DDB1",5.01763157894737
+"298","cytoplasm","NSFL1C",2.98377235772358
+"299","cytoplasm","CCND3",7.12449056603773
+"300","cytoplasm","ARRDC2",6.8856052631579
+"301","cytoplasm","MDN1",0.160052631578947
+"302","cytoplasm","USP9X",0.157632478632479
+"303","cytoplasm","MRPS6",-1.10330687830688
+"304","cytoplasm","STK35",4.10355371900826
+"305","cytoplasm","ASAH1",1.32746268656716
+"306","cytoplasm","FKBP2",3.0696640625
+"307","cytoplasm","NDUFS5",-5.01249166666667
+"308","cytoplasm","FAM49B",-0.168608
+"309","cytoplasm","HSPG2",1.4762752293578
+"310","cytoplasm","KRTCAP2",1.547625
+"311","cytoplasm","CCDC106",0.208837209302326
+"312","cytoplasm","TRAPPC8",4.01665048543689
+"313","cytoplasm","SLC26A6",10.2117577319588
+"314","cytoplasm","SCO1",5.09079710144928
+"315","cytoplasm","MKRN1",-0.55815
+"316","cytoplasm","ELOVL6",4.23108910891089
+"317","cytoplasm","PAPOLG",2.60093373493976
+"318","cytoplasm","TMED10",3.17799363057325
+"319","cytoplasm","PAFAH1B2",2.25670833333333
+"320","cytoplasm","ALG2",3.77457746478873
+"321","cytoplasm","BRAT1",4.42427358490566
+"322","cytoplasm","TMEM259",4.58722680412371
+"323","cytoplasm","TOMM20",-4.15382075471698
+"324","cytoplasm","TMCO1",6.21748214285714
+"325","cytoplasm","MCRIP1",2.08691712707182
+"326","cytoplasm","MYCBP",-1.96327118644068
+"327","cytoplasm","MRPL10",1.50116666666667
+"328","cytoplasm","ZFYVE28",3.92998148148148
+"329","cytoplasm","ZMYND8",1.73054455445545
+"330","cytoplasm","KIF18A",5.39115646258503
+"331","cytoplasm","ARL4A",1.07961764705882
+"332","cytoplasm","NDUFB4",2.43389102564103
+"333","cytoplasm","MNX1",1.3237641509434
+"334","cytoplasm","DDX55",3.82707482993197
+"335","cytoplasm","KEL",0.401972727272727
+"336","cytoplasm","DOK4",-2.51494444444444
+"337","cytoplasm","ZFP64",1.45527205882353
+"338","cytoplasm","MRPL58",4.05040963855422
+"339","cytoplasm","PHAX",-6.67290434782609
+"340","cytoplasm","GOLGA8A",4.08394736842105
+"341","cytoplasm","SRSF5",4.95079207920792
+"342","cytoplasm","VAMP8",1.45500840336134
+"343","cytoplasm","PDCD6",4.2508220338983
+"344","cytoplasm","PROX1",-3.03971559633027
+"345","cytoplasm","ID1",7.06989108910891
+"346","cytoplasm","UBE2D3",2.25707818930041
+"347","cytoplasm","NIP7",8.27125454545454
+"348","cytoplasm","SERF2",2.25555303030303
+"349","cytoplasm","EGLN2",-1.47025196850394
+"350","cytoplasm","QDPR",-2.55760784313725
+"351","cytoplasm","PPP1R12C",2.77399019607843
+"352","cytoplasm","NAGLU",-2.169625
+"353","cytoplasm","KRTAP4-2",2.11778431372549
+"354","cytoplasm","RRM2",-3.29137297297297
+"355","cytoplasm","RALGDS",4.4792905982906
+"356","cytoplasm","GPI",2.03670297029703
+"357","cytoplasm","UTRN",-4.75834745762712
+"358","cytoplasm","GHDC",-0.445925925925926
+"359","cytoplasm","PPP2CB",-4.59121848739496
+"360","cytoplasm","CPQ",4.32253103448276
+"361","cytoplasm","HPS1",38.3775862068965
+"362","cytoplasm","COG2",-5.06507476635514
+"363","cytoplasm","MIPEP",1.10272881355932
+"364","cytoplasm","SEC61B",-1.2951
+"365","cytoplasm","PECR",-2.10475
+"366","cytoplasm","CBY1",0.247319327731092
+"367","cytoplasm","COX8A",-0.401504761904762
+"368","cytoplasm","KLHL24",3.20487603305785
+"369","cytoplasm","TOR1B",12.7830689655172
+"370","cytoplasm","COMMD9",-0.0726310679611649
+"371","cytoplasm","USP30",1.42745569620253
+"372","cytoplasm","GTF3C4",6.39512727272727
+"373","cytoplasm","ABCC5",4.17523853211009
+"374","cytoplasm","P4HB",1.85931355932203
+"375","cytoplasm","LDHB",4.9330826446281
+"376","cytoplasm","RABEP2",2.11924752475248
+"377","cytoplasm","PEA15",2.79634545454545
+"378","cytoplasm","GGCX",0.296049180327869
+"379","cytoplasm","STX17",5.17888372093023
+"380","cytoplasm","MST1",6.53472826086956
+"381","cytoplasm","DOLK",4.31881896551724
+"382","cytoplasm","FLNC",1.89248214285714
+"383","cytoplasm","PACS1",-2.72737142857143
+"384","cytoplasm","ANXA3",2.94269117647059
+"385","cytoplasm","STARD10",-0.470403846153846
+"386","cytoplasm","RPL9",-3.15550420168067
+"387","cytoplasm","OLIG2",0.481404761904762
+"388","cytoplasm","VPS33A",4.59767346938776
+"389","cytoplasm","PGAM5",4.08869230769231
+"390","cytoplasm","POLR2E",4.02520567375887
+"391","cytoplasm","KIF13A",-1.50638709677419
+"392","cytoplasm","RNF123",4.51722480620155
+"393","cytoplasm","PEX10",1.56034246575342
+"394","cytoplasm","ATP13A2",-0.127449275362319
+"395","cytoplasm","NABP2",-6.67660839160839
+"396","cytoplasm","KIF5B",5.68762376237624
+"397","cytoplasm","CUX1",5.06254385964912
+"398","cytoplasm","SQLE",3.25687421383648
+"399","cytoplasm","GLYR1",8.03013725490196
+"400","cytoplasm","KCNE3",5.14251724137931
+"401","cytoplasm","RO60",4.77161931818182
+"402","cytoplasm","MAPK9",3.30087248322148
+"403","cytoplasm","COQ10A",-1.59587128712871
+"404","cytoplasm","CTSC",1.8764380952381
+"405","cytoplasm","PIGM",4.86453191489362
+"406","cytoplasm","MSMO1",-8.02597540983607
+"407","cytoplasm","CPSF7",3.21877941176471
+"408","cytoplasm","DENND4B",1.57208383233533
+"409","cytoplasm","UROS",4.66055172413793
+"410","cytoplasm","CCDC92",0.946791666666667
+"411","cytoplasm","EPS8L1",-3.1880594059406
+"412","cytoplasm","PPP1CB",3.73917518248175
+"413","cytoplasm","GOT2",-0.334016
+"414","cytoplasm","ILKAP",3.99170542635659
+"415","cytoplasm","SOX4",-1.20075454545455
+"416","cytoplasm","USP42",3.51266666666667
+"417","cytoplasm","TBXT",3.01036936936937
+"418","cytoplasm","PDCD6IP",3.79521088435374
+"419","cytoplasm","LCP1",1.01708403361345
+"420","cytoplasm","TKT",-1.29706542056075
+"421","cytoplasm","FOXO4",1.48817391304348
+"422","cytoplasm","DECR1",3.43699082568807
+"423","cytoplasm","SLC25A10",2.04979439252336
+"424","cytoplasm","KLF9",-5.19609375
+"425","cytoplasm","AP2B1",-4.82892700729927
+"426","cytoplasm","INTU",1.06235833333333
+"427","cytoplasm","ANAPC15",2.67393617021277
+"428","cytoplasm","MACO1",5.97598181818182
+"429","cytoplasm","NOP56",3.38707518796992
+"430","cytoplasm","COPG1",-6.73302830188679
+"431","cytoplasm","ERMAP",-7.86413043478261
+"432","cytoplasm","UBE2D2",-14.561704
+"433","cytoplasm","KIN",7.88348623853211
+"434","cytoplasm","SHC1",2.00629323308271
+"435","cytoplasm","UNC50",2.69841584158416
+"436","cytoplasm","TNPO2",1.40373109243697
+"437","cytoplasm","ROGDI",-2.18135652173913
+"438","cytoplasm","ACIN1",2.46399107142857
+"439","cytoplasm","UBA1",4.80256074766355
+"440","cytoplasm","ZFYVE9",1.20873913043478
+"441","cytoplasm","FSTL3",3.2584
+"442","cytoplasm","STK25",4.91061467889908
+"443","cytoplasm","OSBPL8",2.86980419580419
+"444","cytoplasm","CD58",0.410961538461538
+"445","cytoplasm","UNC45A",2.53985496183206
+"446","cytoplasm","MRPS35",-1.31697058823529
+"447","cytoplasm","TMEM63A",-0.700806201550388
+"448","cytoplasm","CHPF",5.55751794871795
+"449","cytoplasm","ZDHHC16",5.06008396946565
+"450","cytoplasm","ENSA",12.498738317757
+"451","cytoplasm","TMEM138",3.70756481481482
+"452","cytoplasm","DPH1",-0.954919708029197
+"453","cytoplasm","NUP214",-3.63948502994012
+"454","cytoplasm","TRAF7",3.21849572649573
+"455","cytoplasm","PIKFYVE",3.68508928571429
+"456","cytoplasm","ELP5",-9.37112621359224
+"457","cytoplasm","ZFAND5",5.18227777777778
+"458","cytoplasm","EIF4E",2.78003472222222
+"459","cytoplasm","NPHP4",7.48679032258065
+"460","cytoplasm","PRKX",3.52059090909091
+"461","cytoplasm","ENKD1",-1.4623
+"462","cytoplasm","AUNIP",-0.417875
+"463","cytoplasm","PELI1",1.62776363636364
+"464","cytoplasm","SNF8",5.75875454545455
+"465","cytoplasm","NUP93",5.19466153846154
+"466","cytoplasm","RIPK1",-1.27068907563025
+"467","cytoplasm","CCNY",-2.91126016260163
+"468","cytoplasm","B4GALT7",4.9032718446602
+"469","cytoplasm","PIGL",-0.405542857142857
+"470","cytoplasm","RDH11",8.40654385964912
+"471","cytoplasm","DDX6",1.68104838709677
+"472","cytoplasm","ACTR1A",-1.42165
+"473","cytoplasm","SKI",4.09915315315315
+"474","cytoplasm","BAG4",0.508169491525424
+"475","cytoplasm","TSC1",3.72607575757576
+"476","cytoplasm","ARHGAP11B",-2.13784848484848
+"477","cytoplasm","GNPDA2",5.77775862068966
+"478","cytoplasm","ARMC8",3.07241803278689
+"479","cytoplasm","STOM",0.177112
+"480","cytoplasm","EXOC1",-4.3280974025974
+"481","cytoplasm","CASZ1",3.25991240875912
+"482","cytoplasm","PODXL2",-0.792465346534654
+"483","cytoplasm","TANGO2",6.95484905660377
+"484","cytoplasm","EPHX2",4.30761363636364
+"485","cytoplasm","LRRC8C",-1.62393220338983
+"486","cytoplasm","TPGS1",7.58084158415842
+"487","cytoplasm","CHCHD10",3.98072847682119
+"488","cytoplasm","NABP1",4.65725714285714
+"489","cytoplasm","ATG9A",0.0845319148936167
+"490","cytoplasm","OTUD7B",1.70816981132075
+"491","cytoplasm","HPS5",5.44390517241379
+"492","cytoplasm","ELK4",3.20176923076923
+"493","cytoplasm","NDUFV1",-0.0916554621848741
+"494","cytoplasm","CPOX",-1.2938036809816
+"495","cytoplasm","CCDC28B",-2.03972815533981
+"496","cytoplasm","TEX264",-5.523171875
+"497","cytoplasm","FBXL4",2.42316831683168
+"498","cytoplasm","LANCL2",2.97067961165049
+"499","cytoplasm","CKAP5",4.7312695035461
+"500","cytoplasm","RILP",1.81506818181818
+"501","cytoplasm","ABL2",3.01867357512953
+"502","cytoplasm","CNOT9",2.326
+"503","cytoplasm","TPM3",1.56027419354839
+"504","cytoplasm","RELN",23.8158076923077
+"505","cytoplasm","GAS8",4.96116504854369
+"506","cytoplasm","CRKL",2.09696551724138
+"507","cytoplasm","TMEM170A",-7.42523148148148
+"508","cytoplasm","ETNK2",1.78717475728155
+"509","cytoplasm","ORC4",5.63190291262136
+"510","cytoplasm","VAT1",4.76655172413793
+"511","cytoplasm","MTHFD1L",4.34678899082569
+"512","cytoplasm","COBL",4.21960992907801
+"513","cytoplasm","RNF126",3.58144144144144
+"514","cytoplasm","ZDHHC14",-1.360408
+"515","cytoplasm","ASCL2",6.5857
+"516","cytoplasm","MECOM",3.12173684210526
+"517","cytoplasm","HNRNPC",35.3681188118812
+"518","cytoplasm","PIGS",4.9586496350365
+"519","cytoplasm","FEZ2",-0.952247619047619
+"520","cytoplasm","SEC14L1",4.81046788990826
+"521","cytoplasm","GAN",2.54168181818182
+"522","cytoplasm","WDR7",1.36621621621622
+"523","cytoplasm","STAU1",0.905551724137931
+"524","cytoplasm","PPIC",-0.0965934959349594
+"525","cytoplasm","OMA1",5.92076699029126
+"526","cytoplasm","PACSIN2",5.79434259259259
+"527","cytoplasm","MRPL9",17.761796875
+"528","cytoplasm","TTC21B",1.83321705426357
+"529","cytoplasm","CS",-2.60865217391304
+"530","cytoplasm","WSB2",4.99547967479675
+"531","cytoplasm","FBXW2",-0.837509090909091
+"532","cytoplasm","GRK2",3.17690909090909
+"533","cytoplasm","KCNH2",-1.80118045112782
+"534","cytoplasm","HOMEZ",6.61112230215827
+"535","cytoplasm","NPRL3",-2.175
+"536","cytoplasm","MLEC",8.60788079470199
+"537","cytoplasm","ELP2",4.15764444444444
+"538","cytoplasm","MYO1C",3.39400609756098
+"539","cytoplasm","HMOX2",3.58610747663551
+"540","cytoplasm","IFITM2",8.54475652173913
+"541","cytoplasm","IBA57",3.225224
+"542","cytoplasm","PPM1B",-2.31079824561404
+"543","cytoplasm","GGA2",0.418821052631579
+"544","cytoplasm","ALG1",4.93577952755906
+"545","cytoplasm","COL18A1",4.565546875
+"546","cytoplasm","ANXA4",-3.3978431372549
+"547","cytoplasm","RPL37",8.87486991869918
+"548","cytoplasm","KIF2A",6.20044144144144
+"549","cytoplasm","LRRC8A",5.13245833333333
+"550","cytoplasm","TAF15",10.1749504950495
+"551","cytoplasm","SLC48A1",-1.04859803921569
+"552","cytoplasm","SLC38A9",5.1543115942029
+"553","cytoplasm","APOBEC3C",1.47925748502994
+"554","cytoplasm","HEATR5A",1.9114854368932
+"555","cytoplasm","FZD2",-2.19207766990291
+"556","cytoplasm","CYBC1",4.97171287128713
+"557","cytoplasm","ACSL3",-6.16219696969697
+"558","cytoplasm","SEPTIN9",6.58477215189873
+"559","cytoplasm","STAU2",-0.331090909090907
+"560","cytoplasm","UBXN10",4.69906796116505
+"561","cytoplasm","BET1L",4.59640740740741
+"562","cytoplasm","B3GALT6",0.416737226277372
+"563","cytoplasm","NUDT2",-3.26996470588235
+"564","cytoplasm","TOMM7",0.448868852459016
+"565","cytoplasm","TFDP1",-2.10745283018868
+"566","cytoplasm","CMBL",3.86052755905512
+"567","cytoplasm","POC5",-0.970405940594059
+"568","cytoplasm","APTX",4.42977450980392
+"569","cytoplasm","ESYT1",3.73208695652174
+"570","cytoplasm","ZYX",5.80070093457944
+"571","cytoplasm","BCL2L11",1.73205405405405
+"572","cytoplasm","TMEM242",3.2625960591133
+"573","cytoplasm","VPS53",4.39325409836066
+"574","cytoplasm","NUCKS1",-0.917269938650307
+"575","cytoplasm","CDK2AP1",-1.97011009174312
+"576","cytoplasm","TNFRSF1B",1.42097931034483
+"577","cytoplasm","ERC1",2.81504615384615
+"578","cytoplasm","PLA2G6",-4.83974311926606
+"579","cytoplasm","IFT80",3.21695495495496
+"580","cytoplasm","MMADHC",3.85514285714286
+"581","cytoplasm","PLSCR1",2.01127272727273
+"582","cytoplasm","CCDC6",-4.43147572815534
+"583","cytoplasm","RBL2",-0.804036363636364
+"584","cytoplasm","PIF1",1.89132638888889
+"585","cytoplasm","SYNGR1",4.53630476190476
+"586","cytoplasm","RAB1A",4.57284126984127
+"587","cytoplasm","ZNF232",6.38981372549019
+"588","cytoplasm","TRAM1",3.58335714285714
+"589","cytoplasm","MEST",-0.00738095238095223
+"590","cytoplasm","NUP205",-0.53092125984252
+"591","cytoplasm","MRPS18C",0.181102803738318
+"592","cytoplasm","MZT1",0.219316239316239
+"593","cytoplasm","RAB9A",6.03247945205479
+"594","cytoplasm","SLC25A33",4.49430508474576
+"595","cytoplasm","NR5A1",-4.96371287128713
+"596","cytoplasm","UBE2N",-3.11134965034965
+"597","cytoplasm","PLEC",0.447224
+"598","cytoplasm","PRDX6",-0.352885245901639
+"599","cytoplasm","WAS",4.07263513513514
+"600","cytoplasm","RNF207",3.69481818181818
+"601","cytoplasm","MEMO1",-2.41414876033058
+"602","cytoplasm","CPNE1",0.371912408759124
+"603","cytoplasm","HARS2",-5.05747286821706
+"604","cytoplasm","PPFIA1",5.41742592592593
+"605","cytoplasm","PDE8A",2.92763636363636
+"606","cytoplasm","ARHGDIA",2.43807547169811
+"607","cytoplasm","WHAMM",4.52025625
+"608","cytoplasm","CYC1",4.24418691588785
+"609","cytoplasm","DMAC2L",2.68234558823529
+"610","cytoplasm","ETS1",-3.59953271028037
+"611","cytoplasm","MZT2B",2.25278378378378
+"612","cytoplasm","TYK2",2.57074418604651
+"613","cytoplasm","IRF5",4.64355084745763
+"614","cytoplasm","ZDHHC6",16.1144821428571
+"615","cytoplasm","TM7SF2",1.64107843137255
+"616","cytoplasm","ZC3H12A",6.20014285714286
+"617","cytoplasm","AQP7",1.31290196078431
+"618","cytoplasm","MYL6B",0.900981981981982
+"619","cytoplasm","TMEM258",1.20788571428571
+"620","cytoplasm","KIF3A",2.59602857142857
+"621","cytoplasm","PEX2",3.83511650485437
+"622","cytoplasm","SLC33A1",3.39451923076923
+"623","cytoplasm","KAT2A",5.3169014084507
+"624","cytoplasm","STK38",2.4208431372549
+"625","cytoplasm","YKT6",-0.0447636363636364
+"626","cytoplasm","NFATC2",-1.75001234567901
+"627","cytoplasm","COMMD6",3.3463768115942
+"628","cytoplasm","CCDC124",-1.44413533834586
+"629","cytoplasm","ZFP36L1",-1.15308661417323
+"630","cytoplasm","NDUFB6",0.199098039215686
+"631","cytoplasm","FBLIM1",2.22808
+"632","cytoplasm","GLRX",3.22400862068966
+"633","cytoplasm","RARA",5.0905375
+"634","cytoplasm","MAPRE2",7.34224817518248
+"635","cytoplasm","CERCAM",0.560810810810811
+"636","cytoplasm","CNTROB",-0.0385
+"637","cytoplasm","TYRO3",-7.14459813084112
+"638","cytoplasm","HSD17B7",1.99915527950311
+"639","cytoplasm","SRP72",1.01671223021583
+"640","cytoplasm","ABCB6",5.7919298245614
+"641","cytoplasm","ZEB1",-5.49546601941748
+"642","cytoplasm","ZIC3",1.35415833333333
+"643","cytoplasm","TTLL12",-0.0993858267716535
+"644","cytoplasm","THUMPD3",8.21067961165049
+"645","cytoplasm","RIPK2",-2.72317213114754
+"646","cytoplasm","MON2",-5.82156279069767
+"647","cytoplasm","KCNIP3",2.65167326732673
+"648","cytoplasm","GAMT",5.80487804878049
+"649","cytoplasm","SMG9",-1.291484375
+"650","cytoplasm","MEX3D",-6.56835810810811
+"651","cytoplasm","TNFAIP1",-2.73857843137255
+"652","cytoplasm","KLF11",0.399168421052632
+"653","cytoplasm","BNIP3L",-2.74855797101449
+"654","cytoplasm","SMURF1",1.72982926829268
+"655","cytoplasm","WWC2",-0.507172727272727
+"656","cytoplasm","UNC119",4.72397972972973
+"657","cytoplasm","MLLT3",-0.51181954887218
+"658","cytoplasm","DMD",2.65758201058201
+"659","cytoplasm","GOLGA4",4.76328037383178
+"660","cytoplasm","SPRYD3",3.80716981132075
+"661","cytoplasm","NDUFB3",0.935625
+"662","cytoplasm","LRRC14",9.22237984496124
+"663","cytoplasm","TUBB4B",2.3772012195122
+"664","cytoplasm","ZBTB7A",-0.985745098039216
+"665","cytoplasm","CYB561A3",-3.15309900990099
+"666","cytoplasm","GTPBP10",1.80803361344538
+"667","cytoplasm","COX7C",5.1981452991453
+"668","cytoplasm","RHOG",-2.94559627329193
+"669","cytoplasm","NDUFAB1",5.70169607843137
+"670","cytoplasm","GEMIN7",0.0499374999999994
+"671","cytoplasm","SHCBP1",1.9365625
+"672","cytoplasm","CRYAB",2.01402362204724
+"673","cytoplasm","HECTD3",7.2867734375
+"674","cytoplasm","GNAQ",0.970637096774194
+"675","cytoplasm","TDP1",4.54433846153846
+"676","cytoplasm","UCP2",-1.20726732673267
+"677","cytoplasm","TOR3A",-0.0756407185628745
+"678","cytoplasm","RAB5C",0.130931372549019
+"679","cytoplasm","PIM2",3.44372897196262
+"680","cytoplasm","PTEN",2.91622330097087
+"681","cytoplasm","MRPL36",7.07326470588235
+"682","cytoplasm","MEX3A",3.080264
+"683","cytoplasm","ECHS1",2.89387619047619
+"684","cytoplasm","NSF",7.23254022988506
+"685","cytoplasm","PIGX",4.50356435643564
+"686","cytoplasm","MBTPS2",2.68220740740741
+"687","cytoplasm","JKAMP",2.33886065573771
+"688","cytoplasm","NFATC2IP",-2.41825517241379
+"689","cytoplasm","CDC34",3.49206923076923
+"690","cytoplasm","SIMC1",0.947933333333333
+"691","cytoplasm","DCTN3",2.87135398230089
+"692","cytoplasm","FEM1B",2.34133653846154
+"693","cytoplasm","PSTPIP2",-6.63425925925926
+"694","cytoplasm","TPM4",0.0573883495145632
+"695","cytoplasm","SENP3",-5.47067272727273
+"696","cytoplasm","CYP2R1",-3.22862745098039
+"697","cytoplasm","ARHGEF10",4.379176
+"698","cytoplasm","KCTD6",2.6442131147541
+"699","cytoplasm","PCCB",3.24997247706422
+"700","cytoplasm","DENND4C",0.613138888888889
+"701","cytoplasm","LSM10",0.531058252427184
+"702","cytoplasm","DRAM1",1.77676724137931
+"703","cytoplasm","CARS2",7.54618691588785
+"704","cytoplasm","NUCB2",5.01022972972973
+"705","cytoplasm","DHX33",-4.62216822429907
+"706","cytoplasm","TIMM9",-4.20427272727273
+"707","cytoplasm","NQO1",6.49260169491525
+"708","cytoplasm","HAUS7",-5.2447264957265
+"709","cytoplasm","ERGIC3",1.73927642276423
+"710","cytoplasm","DNASE1L1",1.07909271523179
+"711","cytoplasm","BLVRB",2.15139751552795
+"712","cytoplasm","KIF11",-2.48062711864407
+"713","cytoplasm","MAGED2",0.551802325581395
+"714","cytoplasm","BRIP1",8.08720134228188
+"715","cytoplasm","RCHY1",1.8906511627907
+"716","cytoplasm","ETFA",0.757247933884298
+"717","cytoplasm","MAP3K11",5.14569444444445
+"718","cytoplasm","RBM4B",-2.30054368932039
+"719","cytoplasm","POMGNT1",-1.35185087719298
+"720","cytoplasm","MPRIP",5.48923021582734
+"721","cytoplasm","EPB41L5",11.4627253521127
+"722","cytoplasm","TBCA",6.43719230769231
+"723","cytoplasm","ARNTL2",1.20788333333333
+"724","cytoplasm","RPS20",9.51228947368421
+"725","cytoplasm","TMEM251",1.85891071428571
+"726","cytoplasm","UCK1",0.820492647058823
+"727","cytoplasm","MID1IP1",-19.4086607142857
+"728","cytoplasm","VPS45",3.764224
+"729","cytoplasm","CNPY3",2.26852604166667
+"730","cytoplasm","RCBTB2",1.62118539325843
+"731","cytoplasm","CIAO1",-0.78695045045045
+"732","cytoplasm","SEC24B",0.423990099009901
+"733","cytoplasm","FDX1",0.813756756756757
+"734","cytoplasm","PLCXD1",0.610586206896552
+"735","cytoplasm","TRNT1",2.48669523809524
+"736","cytoplasm","TFCP2",2.96547580645161
+"737","cytoplasm","RAB13",5.35574789915966
+"738","cytoplasm","HLCS",-4.32355339805825
+"739","cytoplasm","PDX1",0.454629310344827
+"740","cytoplasm","PCTP",6.52358646616541
+"741","cytoplasm","UBA2",2.28076923076923
+"742","cytoplasm","SENP7",0.555598130841122
+"743","cytoplasm","PPP1R12A",-4.22255156950673
+"744","cytoplasm","RMND5A",1.51283050847458
+"745","cytoplasm","SULT1A3",0.188245901639344
+"746","cytoplasm","SCLY",2.84332
+"747","cytoplasm","RDX",-7.19712096774194
+"748","cytoplasm","NAA30",3.52596
+"749","cytoplasm","VPS37C",4.15226785714286
+"750","cytoplasm","RECQL4",1.23823931623932
+"751","cytoplasm","PIR",9.55933333333333
+"752","cytoplasm","UHRF1BP1L",0.0855377358490565
+"753","cytoplasm","TMEM159",5.428921875
+"754","cytoplasm","BIRC6",1.30070198675497
+"755","cytoplasm","AAAS",1.61245323741007
+"756","cytoplasm","HIPK2",6.73891262135922
+"757","cytoplasm","GTPBP2",2.74936220472441
+"758","cytoplasm","BIRC2",8.96960747663551
+"759","cytoplasm","SCAMP2",1.98748969072165
+"760","cytoplasm","ARHGAP18",-1.623925
+"761","cytoplasm","PXMP2",1.78214035087719
+"762","cytoplasm","XPO6",4.47857324840764
+"763","cytoplasm","GABARAPL1",5.39302836879433
+"764","cytoplasm","EPB41L2",-2.08785714285714
+"765","cytoplasm","PSMB5",1.66389380530973
+"766","DNA-binding transcription factor activity, RNA polymerase II-specific","ETV6",2.57494017094017
+"767","DNA-binding transcription factor activity, RNA polymerase II-specific","CREB5",3.70352777777778
+"768","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF550",1.77864516129032
+"769","DNA-binding transcription factor activity, RNA polymerase II-specific","IRX5",-1.51342857142857
+"770","DNA-binding transcription factor activity, RNA polymerase II-specific","USF2",-0.597047999999999
+"771","DNA-binding transcription factor activity, RNA polymerase II-specific","RELB",-3.97656198347107
+"772","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF680",4.02437404580153
+"773","DNA-binding transcription factor activity, RNA polymerase II-specific","HOXA4",-2.52135294117647
+"774","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF268",1.94423770491803
+"775","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF341",5.56773214285714
+"776","DNA-binding transcription factor activity, RNA polymerase II-specific","NR2F6",0.872768595041322
+"777","DNA-binding transcription factor activity, RNA polymerase II-specific","TLX1",1.94435643564356
+"778","DNA-binding transcription factor activity, RNA polymerase II-specific","MNX1",1.3237641509434
+"779","DNA-binding transcription factor activity, RNA polymerase II-specific","PROX1",-3.03971559633027
+"780","DNA-binding transcription factor activity, RNA polymerase II-specific","HES3",1.837
+"781","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF579",3.89034615384615
+"782","DNA-binding transcription factor activity, RNA polymerase II-specific","ETV3",1.64311875
+"783","DNA-binding transcription factor activity, RNA polymerase II-specific","ZHX1",2.17730630630631
+"784","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF850",-0.835447619047619
+"785","DNA-binding transcription factor activity, RNA polymerase II-specific","GSC2",-4.26838613861386
+"786","DNA-binding transcription factor activity, RNA polymerase II-specific","PURB",1.18850694444444
+"787","DNA-binding transcription factor activity, RNA polymerase II-specific","RBAK",2.45651829268293
+"788","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF74",3.83675384615385
+"789","DNA-binding transcription factor activity, RNA polymerase II-specific","OLIG2",0.481404761904762
+"790","DNA-binding transcription factor activity, RNA polymerase II-specific","MYT1L",1.21879310344828
+"791","DNA-binding transcription factor activity, RNA polymerase II-specific","CUX1",5.06254385964912
+"792","DNA-binding transcription factor activity, RNA polymerase II-specific","SOX4",-1.20075454545455
+"793","DNA-binding transcription factor activity, RNA polymerase II-specific","TBXT",3.01036936936937
+"794","DNA-binding transcription factor activity, RNA polymerase II-specific","FOXO4",1.48817391304348
+"795","DNA-binding transcription factor activity, RNA polymerase II-specific","PPARD",4.18376
+"796","DNA-binding transcription factor activity, RNA polymerase II-specific","KLF9",-5.19609375
+"797","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF215",4.65004411764706
+"798","DNA-binding transcription factor activity, RNA polymerase II-specific","SIM1",1.861225
+"799","DNA-binding transcription factor activity, RNA polymerase II-specific","NFIB",-2.93631147540984
+"800","DNA-binding transcription factor activity, RNA polymerase II-specific","GLI4",3.91878048780488
+"801","DNA-binding transcription factor activity, RNA polymerase II-specific","TEAD3",-6.41766137566138
+"802","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF530",6.23266013071895
+"803","DNA-binding transcription factor activity, RNA polymerase II-specific","NKX6-2",5.83370370370371
+"804","DNA-binding transcription factor activity, RNA polymerase II-specific","SKI",4.09915315315315
+"805","DNA-binding transcription factor activity, RNA polymerase II-specific","CASZ1",3.25991240875912
+"806","DNA-binding transcription factor activity, RNA polymerase II-specific","ELK4",3.20176923076923
+"807","DNA-binding transcription factor activity, RNA polymerase II-specific","ASCL2",6.5857
+"808","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF527",-1.7231
+"809","DNA-binding transcription factor activity, RNA polymerase II-specific","MECOM",3.12173684210526
+"810","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF736",3.82413846153846
+"811","DNA-binding transcription factor activity, RNA polymerase II-specific","HOMEZ",6.61112230215827
+"812","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF572",0.739692307692308
+"813","DNA-binding transcription factor activity, RNA polymerase II-specific","MZF1",1.55219402985075
+"814","DNA-binding transcription factor activity, RNA polymerase II-specific","TFDP1",-2.10745283018868
+"815","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF623",2.86491891891892
+"816","DNA-binding transcription factor activity, RNA polymerase II-specific","TWIST1",5.05020661157025
+"817","DNA-binding transcription factor activity, RNA polymerase II-specific","PLSCR1",2.01127272727273
+"818","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF222",5.81634862385321
+"819","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF232",6.38981372549019
+"820","DNA-binding transcription factor activity, RNA polymerase II-specific","HOXA3",-9.12504716981132
+"821","DNA-binding transcription factor activity, RNA polymerase II-specific","NR5A1",-4.96371287128713
+"822","DNA-binding transcription factor activity, RNA polymerase II-specific","ETS1",-3.59953271028037
+"823","DNA-binding transcription factor activity, RNA polymerase II-specific","IRF5",4.64355084745763
+"824","DNA-binding transcription factor activity, RNA polymerase II-specific","FOXI1",1.44487428571429
+"825","DNA-binding transcription factor activity, RNA polymerase II-specific","NFATC2",-1.75001234567901
+"826","DNA-binding transcription factor activity, RNA polymerase II-specific","ATF1",-0.150587155963303
+"827","DNA-binding transcription factor activity, RNA polymerase II-specific","RARA",5.0905375
+"828","DNA-binding transcription factor activity, RNA polymerase II-specific","CREBL2",0.752758620689655
+"829","DNA-binding transcription factor activity, RNA polymerase II-specific","ZEB1",-5.49546601941748
+"830","DNA-binding transcription factor activity, RNA polymerase II-specific","ZIC3",1.35415833333333
+"831","DNA-binding transcription factor activity, RNA polymerase II-specific","KCNIP3",2.65167326732673
+"832","DNA-binding transcription factor activity, RNA polymerase II-specific","KLF11",0.399168421052632
+"833","DNA-binding transcription factor activity, RNA polymerase II-specific","HOXC8",2.79115596330275
+"834","DNA-binding transcription factor activity, RNA polymerase II-specific","ZBTB7A",-0.985745098039216
+"835","DNA-binding transcription factor activity, RNA polymerase II-specific","CSRNP3",3.182
+"836","DNA-binding transcription factor activity, RNA polymerase II-specific","LBX2",5.66341176470588
+"837","DNA-binding transcription factor activity, RNA polymerase II-specific","FOXE3",5.09370476190476
+"838","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF345",-7.19012213740458
+"839","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF324B",-0.33426724137931
+"840","DNA-binding transcription factor activity, RNA polymerase II-specific","KLF13",4.04594482758621
+"841","DNA-binding transcription factor activity, RNA polymerase II-specific","ARNTL2",1.20788333333333
+"842","DNA-binding transcription factor activity, RNA polymerase II-specific","SIX6",-9.03729197080292
+"843","DNA-binding transcription factor activity, RNA polymerase II-specific","TFCP2",2.96547580645161
+"844","DNA-binding transcription factor activity, RNA polymerase II-specific","PDX1",0.454629310344827
+"845","DNA-binding transcription factor activity","ETV6",2.57494017094017
+"846","DNA-binding transcription factor activity","CREB5",3.70352777777778
+"847","DNA-binding transcription factor activity","ZNF550",1.77864516129032
+"848","DNA-binding transcription factor activity","IRX5",-1.51342857142857
+"849","DNA-binding transcription factor activity","USF2",-0.597047999999999
+"850","DNA-binding transcription factor activity","RELB",-3.97656198347107
+"851","DNA-binding transcription factor activity","ZNF680",4.02437404580153
+"852","DNA-binding transcription factor activity","HOXA4",-2.52135294117647
+"853","DNA-binding transcription factor activity","ZNF268",1.94423770491803
+"854","DNA-binding transcription factor activity","ZNF341",5.56773214285714
+"855","DNA-binding transcription factor activity","NR2F6",0.872768595041322
+"856","DNA-binding transcription factor activity","TLX1",1.94435643564356
+"857","DNA-binding transcription factor activity","MNX1",1.3237641509434
+"858","DNA-binding transcription factor activity","PROX1",-3.03971559633027
+"859","DNA-binding transcription factor activity","HES3",1.837
+"860","DNA-binding transcription factor activity","ZNF579",3.89034615384615
+"861","DNA-binding transcription factor activity","ETV3",1.64311875
+"862","DNA-binding transcription factor activity","ZHX1",2.17730630630631
+"863","DNA-binding transcription factor activity","ZNF850",-0.835447619047619
+"864","DNA-binding transcription factor activity","IKZF2",0.535715447154472
+"865","DNA-binding transcription factor activity","GSC2",-4.26838613861386
+"866","DNA-binding transcription factor activity","PURB",1.18850694444444
+"867","DNA-binding transcription factor activity","RBAK",2.45651829268293
+"868","DNA-binding transcription factor activity","ZNF74",3.83675384615385
+"869","DNA-binding transcription factor activity","OLIG2",0.481404761904762
+"870","DNA-binding transcription factor activity","MYT1L",1.21879310344828
+"871","DNA-binding transcription factor activity","CUX1",5.06254385964912
+"872","DNA-binding transcription factor activity","SOX4",-1.20075454545455
+"873","DNA-binding transcription factor activity","TBXT",3.01036936936937
+"874","DNA-binding transcription factor activity","FOXO4",1.48817391304348
+"875","DNA-binding transcription factor activity","PPARD",4.18376
+"876","DNA-binding transcription factor activity","KLF9",-5.19609375
+"877","DNA-binding transcription factor activity","ZNF215",4.65004411764706
+"878","DNA-binding transcription factor activity","SIM1",1.861225
+"879","DNA-binding transcription factor activity","NFIB",-2.93631147540984
+"880","DNA-binding transcription factor activity","GLI4",3.91878048780488
+"881","DNA-binding transcription factor activity","TEAD3",-6.41766137566138
+"882","DNA-binding transcription factor activity","ZNF530",6.23266013071895
+"883","DNA-binding transcription factor activity","NKX6-2",5.83370370370371
+"884","DNA-binding transcription factor activity","SKI",4.09915315315315
+"885","DNA-binding transcription factor activity","CASZ1",3.25991240875912
+"886","DNA-binding transcription factor activity","ELK4",3.20176923076923
+"887","DNA-binding transcription factor activity","ASCL2",6.5857
+"888","DNA-binding transcription factor activity","ZNF527",-1.7231
+"889","DNA-binding transcription factor activity","MECOM",3.12173684210526
+"890","DNA-binding transcription factor activity","ZNF736",3.82413846153846
+"891","DNA-binding transcription factor activity","HOMEZ",6.61112230215827
+"892","DNA-binding transcription factor activity","ZNF572",0.739692307692308
+"893","DNA-binding transcription factor activity","MZF1",1.55219402985075
+"894","DNA-binding transcription factor activity","TFDP1",-2.10745283018868
+"895","DNA-binding transcription factor activity","ZNF623",2.86491891891892
+"896","DNA-binding transcription factor activity","TWIST1",5.05020661157025
+"897","DNA-binding transcription factor activity","PLSCR1",2.01127272727273
+"898","DNA-binding transcription factor activity","ZNF222",5.81634862385321
+"899","DNA-binding transcription factor activity","ZNF232",6.38981372549019
+"900","DNA-binding transcription factor activity","HOXA3",-9.12504716981132
+"901","DNA-binding transcription factor activity","NR5A1",-4.96371287128713
+"902","DNA-binding transcription factor activity","ETS1",-3.59953271028037
+"903","DNA-binding transcription factor activity","IRF5",4.64355084745763
+"904","DNA-binding transcription factor activity","FOXI1",1.44487428571429
+"905","DNA-binding transcription factor activity","NFATC2",-1.75001234567901
+"906","DNA-binding transcription factor activity","ATF1",-0.150587155963303
+"907","DNA-binding transcription factor activity","RARA",5.0905375
+"908","DNA-binding transcription factor activity","CREBL2",0.752758620689655
+"909","DNA-binding transcription factor activity","ZEB1",-5.49546601941748
+"910","DNA-binding transcription factor activity","ZIC3",1.35415833333333
+"911","DNA-binding transcription factor activity","KCNIP3",2.65167326732673
+"912","DNA-binding transcription factor activity","KLF11",0.399168421052632
+"913","DNA-binding transcription factor activity","HOXC8",2.79115596330275
+"914","DNA-binding transcription factor activity","ZBTB7A",-0.985745098039216
+"915","DNA-binding transcription factor activity","CSRNP3",3.182
+"916","DNA-binding transcription factor activity","LBX2",5.66341176470588
+"917","DNA-binding transcription factor activity","FOXE3",5.09370476190476
+"918","DNA-binding transcription factor activity","ZNF345",-7.19012213740458
+"919","DNA-binding transcription factor activity","ZNF324B",-0.33426724137931
+"920","DNA-binding transcription factor activity","KLF13",4.04594482758621
+"921","DNA-binding transcription factor activity","ARNTL2",1.20788333333333
+"922","DNA-binding transcription factor activity","SIX6",-9.03729197080292
+"923","DNA-binding transcription factor activity","TFCP2",2.96547580645161
+"924","DNA-binding transcription factor activity","PDX1",0.454629310344827
+"925","DNA-binding transcription factor activity, RNA polymerase II-specific","ETV6",2.57494017094017
+"926","DNA-binding transcription factor activity, RNA polymerase II-specific","CREB5",3.70352777777778
+"927","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF550",1.77864516129032
+"928","DNA-binding transcription factor activity, RNA polymerase II-specific","IRX5",-1.51342857142857
+"929","DNA-binding transcription factor activity, RNA polymerase II-specific","USF2",-0.597047999999999
+"930","DNA-binding transcription factor activity, RNA polymerase II-specific","RELB",-3.97656198347107
+"931","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF680",4.02437404580153
+"932","DNA-binding transcription factor activity, RNA polymerase II-specific","HOXA4",-2.52135294117647
+"933","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF268",1.94423770491803
+"934","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF341",5.56773214285714
+"935","DNA-binding transcription factor activity, RNA polymerase II-specific","NR2F6",0.872768595041322
+"936","DNA-binding transcription factor activity, RNA polymerase II-specific","TLX1",1.94435643564356
+"937","DNA-binding transcription factor activity, RNA polymerase II-specific","MNX1",1.3237641509434
+"938","DNA-binding transcription factor activity, RNA polymerase II-specific","PROX1",-3.03971559633027
+"939","DNA-binding transcription factor activity, RNA polymerase II-specific","HES3",1.837
+"940","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF579",3.89034615384615
+"941","DNA-binding transcription factor activity, RNA polymerase II-specific","ETV3",1.64311875
+"942","DNA-binding transcription factor activity, RNA polymerase II-specific","ZHX1",2.17730630630631
+"943","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF850",-0.835447619047619
+"944","DNA-binding transcription factor activity, RNA polymerase II-specific","GSC2",-4.26838613861386
+"945","DNA-binding transcription factor activity, RNA polymerase II-specific","PURB",1.18850694444444
+"946","DNA-binding transcription factor activity, RNA polymerase II-specific","RBAK",2.45651829268293
+"947","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF74",3.83675384615385
+"948","DNA-binding transcription factor activity, RNA polymerase II-specific","OLIG2",0.481404761904762
+"949","DNA-binding transcription factor activity, RNA polymerase II-specific","MYT1L",1.21879310344828
+"950","DNA-binding transcription factor activity, RNA polymerase II-specific","CUX1",5.06254385964912
+"951","DNA-binding transcription factor activity, RNA polymerase II-specific","SOX4",-1.20075454545455
+"952","DNA-binding transcription factor activity, RNA polymerase II-specific","TBXT",3.01036936936937
+"953","DNA-binding transcription factor activity, RNA polymerase II-specific","FOXO4",1.48817391304348
+"954","DNA-binding transcription factor activity, RNA polymerase II-specific","PPARD",4.18376
+"955","DNA-binding transcription factor activity, RNA polymerase II-specific","KLF9",-5.19609375
+"956","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF215",4.65004411764706
+"957","DNA-binding transcription factor activity, RNA polymerase II-specific","SIM1",1.861225
+"958","DNA-binding transcription factor activity, RNA polymerase II-specific","NFIB",-2.93631147540984
+"959","DNA-binding transcription factor activity, RNA polymerase II-specific","GLI4",3.91878048780488
+"960","DNA-binding transcription factor activity, RNA polymerase II-specific","TEAD3",-6.41766137566138
+"961","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF530",6.23266013071895
+"962","DNA-binding transcription factor activity, RNA polymerase II-specific","NKX6-2",5.83370370370371
+"963","DNA-binding transcription factor activity, RNA polymerase II-specific","SKI",4.09915315315315
+"964","DNA-binding transcription factor activity, RNA polymerase II-specific","CASZ1",3.25991240875912
+"965","DNA-binding transcription factor activity, RNA polymerase II-specific","ELK4",3.20176923076923
+"966","DNA-binding transcription factor activity, RNA polymerase II-specific","ASCL2",6.5857
+"967","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF527",-1.7231
+"968","DNA-binding transcription factor activity, RNA polymerase II-specific","MECOM",3.12173684210526
+"969","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF736",3.82413846153846
+"970","DNA-binding transcription factor activity, RNA polymerase II-specific","HOMEZ",6.61112230215827
+"971","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF572",0.739692307692308
+"972","DNA-binding transcription factor activity, RNA polymerase II-specific","MZF1",1.55219402985075
+"973","DNA-binding transcription factor activity, RNA polymerase II-specific","TFDP1",-2.10745283018868
+"974","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF623",2.86491891891892
+"975","DNA-binding transcription factor activity, RNA polymerase II-specific","TWIST1",5.05020661157025
+"976","DNA-binding transcription factor activity, RNA polymerase II-specific","PLSCR1",2.01127272727273
+"977","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF222",5.81634862385321
+"978","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF232",6.38981372549019
+"979","DNA-binding transcription factor activity, RNA polymerase II-specific","HOXA3",-9.12504716981132
+"980","DNA-binding transcription factor activity, RNA polymerase II-specific","NR5A1",-4.96371287128713
+"981","DNA-binding transcription factor activity, RNA polymerase II-specific","ETS1",-3.59953271028037
+"982","DNA-binding transcription factor activity, RNA polymerase II-specific","IRF5",4.64355084745763
+"983","DNA-binding transcription factor activity, RNA polymerase II-specific","FOXI1",1.44487428571429
+"984","DNA-binding transcription factor activity, RNA polymerase II-specific","NFATC2",-1.75001234567901
+"985","DNA-binding transcription factor activity, RNA polymerase II-specific","ATF1",-0.150587155963303
+"986","DNA-binding transcription factor activity, RNA polymerase II-specific","RARA",5.0905375
+"987","DNA-binding transcription factor activity, RNA polymerase II-specific","CREBL2",0.752758620689655
+"988","DNA-binding transcription factor activity, RNA polymerase II-specific","ZEB1",-5.49546601941748
+"989","DNA-binding transcription factor activity, RNA polymerase II-specific","ZIC3",1.35415833333333
+"990","DNA-binding transcription factor activity, RNA polymerase II-specific","KCNIP3",2.65167326732673
+"991","DNA-binding transcription factor activity, RNA polymerase II-specific","KLF11",0.399168421052632
+"992","DNA-binding transcription factor activity, RNA polymerase II-specific","HOXC8",2.79115596330275
+"993","DNA-binding transcription factor activity, RNA polymerase II-specific","ZBTB7A",-0.985745098039216
+"994","DNA-binding transcription factor activity, RNA polymerase II-specific","CSRNP3",3.182
+"995","DNA-binding transcription factor activity, RNA polymerase II-specific","LBX2",5.66341176470588
+"996","DNA-binding transcription factor activity, RNA polymerase II-specific","FOXE3",5.09370476190476
+"997","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF345",-7.19012213740458
+"998","DNA-binding transcription factor activity, RNA polymerase II-specific","ZNF324B",-0.33426724137931
+"999","DNA-binding transcription factor activity, RNA polymerase II-specific","KLF13",4.04594482758621
+"1000","DNA-binding transcription factor activity, RNA polymerase II-specific","ARNTL2",1.20788333333333
+"1001","DNA-binding transcription factor activity, RNA polymerase II-specific","SIX6",-9.03729197080292
+"1002","DNA-binding transcription factor activity, RNA polymerase II-specific","TFCP2",2.96547580645161
+"1003","DNA-binding transcription factor activity, RNA polymerase II-specific","PDX1",0.454629310344827
+"1004","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ETV6",2.57494017094017
+"1005","RNA polymerase II transcription regulatory region sequence-specific DNA binding","CREB5",3.70352777777778
+"1006","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF550",1.77864516129032
+"1007","RNA polymerase II transcription regulatory region sequence-specific DNA binding","IRX5",-1.51342857142857
+"1008","RNA polymerase II transcription regulatory region sequence-specific DNA binding","USF2",-0.597047999999999
+"1009","RNA polymerase II transcription regulatory region sequence-specific DNA binding","KDM2B",2.27852380952381
+"1010","RNA polymerase II transcription regulatory region sequence-specific DNA binding","RELB",-3.97656198347107
+"1011","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF680",4.02437404580153
+"1012","RNA polymerase II transcription regulatory region sequence-specific DNA binding","HOXA4",-2.52135294117647
+"1013","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF268",1.94423770491803
+"1014","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF341",5.56773214285714
+"1015","RNA polymerase II transcription regulatory region sequence-specific DNA binding","NR2F6",0.872768595041322
+"1016","RNA polymerase II transcription regulatory region sequence-specific DNA binding","TLX1",1.94435643564356
+"1017","RNA polymerase II transcription regulatory region sequence-specific DNA binding","PROX1",-3.03971559633027
+"1018","RNA polymerase II transcription regulatory region sequence-specific DNA binding","HES3",1.837
+"1019","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ETV3",1.64311875
+"1020","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF850",-0.835447619047619
+"1021","RNA polymerase II transcription regulatory region sequence-specific DNA binding","IKZF2",0.535715447154472
+"1022","RNA polymerase II transcription regulatory region sequence-specific DNA binding","GSC2",-4.26838613861386
+"1023","RNA polymerase II transcription regulatory region sequence-specific DNA binding","PURB",1.18850694444444
+"1024","RNA polymerase II transcription regulatory region sequence-specific DNA binding","RBAK",2.45651829268293
+"1025","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF74",3.83675384615385
+"1026","RNA polymerase II transcription regulatory region sequence-specific DNA binding","OLIG2",0.481404761904762
+"1027","RNA polymerase II transcription regulatory region sequence-specific DNA binding","MYT1L",1.21879310344828
+"1028","RNA polymerase II transcription regulatory region sequence-specific DNA binding","CUX1",5.06254385964912
+"1029","RNA polymerase II transcription regulatory region sequence-specific DNA binding","SOX4",-1.20075454545455
+"1030","RNA polymerase II transcription regulatory region sequence-specific DNA binding","TBXT",3.01036936936937
+"1031","RNA polymerase II transcription regulatory region sequence-specific DNA binding","FOXO4",1.48817391304348
+"1032","RNA polymerase II transcription regulatory region sequence-specific DNA binding","PPARD",4.18376
+"1033","RNA polymerase II transcription regulatory region sequence-specific DNA binding","KLF9",-5.19609375
+"1034","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF215",4.65004411764706
+"1035","RNA polymerase II transcription regulatory region sequence-specific DNA binding","SIM1",1.861225
+"1036","RNA polymerase II transcription regulatory region sequence-specific DNA binding","NFIB",-2.93631147540984
+"1037","RNA polymerase II transcription regulatory region sequence-specific DNA binding","GLI4",3.91878048780488
+"1038","RNA polymerase II transcription regulatory region sequence-specific DNA binding","TEAD3",-6.41766137566138
+"1039","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF530",6.23266013071895
+"1040","RNA polymerase II transcription regulatory region sequence-specific DNA binding","NKX6-2",5.83370370370371
+"1041","RNA polymerase II transcription regulatory region sequence-specific DNA binding","SKI",4.09915315315315
+"1042","RNA polymerase II transcription regulatory region sequence-specific DNA binding","CASZ1",3.25991240875912
+"1043","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ELK4",3.20176923076923
+"1044","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ASCL2",6.5857
+"1045","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF527",-1.7231
+"1046","RNA polymerase II transcription regulatory region sequence-specific DNA binding","MECOM",3.12173684210526
+"1047","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF736",3.82413846153846
+"1048","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF572",0.739692307692308
+"1049","RNA polymerase II transcription regulatory region sequence-specific DNA binding","MZF1",1.55219402985075
+"1050","RNA polymerase II transcription regulatory region sequence-specific DNA binding","TFDP1",-2.10745283018868
+"1051","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF623",2.86491891891892
+"1052","RNA polymerase II transcription regulatory region sequence-specific DNA binding","TWIST1",5.05020661157025
+"1053","RNA polymerase II transcription regulatory region sequence-specific DNA binding","RBL2",-0.804036363636364
+"1054","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF222",5.81634862385321
+"1055","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF232",6.38981372549019
+"1056","RNA polymerase II transcription regulatory region sequence-specific DNA binding","HOXA3",-9.12504716981132
+"1057","RNA polymerase II transcription regulatory region sequence-specific DNA binding","NR5A1",-4.96371287128713
+"1058","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ETS1",-3.59953271028037
+"1059","RNA polymerase II transcription regulatory region sequence-specific DNA binding","IRF5",4.64355084745763
+"1060","RNA polymerase II transcription regulatory region sequence-specific DNA binding","FOXI1",1.44487428571429
+"1061","RNA polymerase II transcription regulatory region sequence-specific DNA binding","NFATC2",-1.75001234567901
+"1062","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ATF1",-0.150587155963303
+"1063","RNA polymerase II transcription regulatory region sequence-specific DNA binding","RARA",5.0905375
+"1064","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZEB1",-5.49546601941748
+"1065","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZIC3",1.35415833333333
+"1066","RNA polymerase II transcription regulatory region sequence-specific DNA binding","KCNIP3",2.65167326732673
+"1067","RNA polymerase II transcription regulatory region sequence-specific DNA binding","KLF11",0.399168421052632
+"1068","RNA polymerase II transcription regulatory region sequence-specific DNA binding","BCOR",-0.450338842975207
+"1069","RNA polymerase II transcription regulatory region sequence-specific DNA binding","HOXC8",2.79115596330275
+"1070","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZBTB7A",-0.985745098039216
+"1071","RNA polymerase II transcription regulatory region sequence-specific DNA binding","FOXE3",5.09370476190476
+"1072","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF345",-7.19012213740458
+"1073","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ZNF324B",-0.33426724137931
+"1074","RNA polymerase II transcription regulatory region sequence-specific DNA binding","KLF13",4.04594482758621
+"1075","RNA polymerase II transcription regulatory region sequence-specific DNA binding","ARNTL2",1.20788333333333
+"1076","RNA polymerase II transcription regulatory region sequence-specific DNA binding","SIX6",-9.03729197080292
+"1077","RNA polymerase II transcription regulatory region sequence-specific DNA binding","TFCP2",2.96547580645161
+"1078","RNA polymerase II transcription regulatory region sequence-specific DNA binding","PDX1",0.454629310344827
+"1079","regulation of RNA metabolic process","RPS6KA1",5.8134469273743
+"1080","regulation of RNA metabolic process","CLK3",2.45741052631579
+"1081","regulation of RNA metabolic process","DEDD",-13.2049449541284
+"1082","regulation of RNA metabolic process","INTS13",1.64439655172414
+"1083","regulation of RNA metabolic process","ETV6",2.57494017094017
+"1084","regulation of RNA metabolic process","RIOX1",7.15940740740741
+"1085","regulation of RNA metabolic process","TFB2M",-2.28904081632653
+"1086","regulation of RNA metabolic process","CREB5",3.70352777777778
+"1087","regulation of RNA metabolic process","ZNF550",1.77864516129032
+"1088","regulation of RNA metabolic process","ATXN7",-0.89154347826087
+"1089","regulation of RNA metabolic process","IRX5",-1.51342857142857
+"1090","regulation of RNA metabolic process","TRA2A",4.39981538461538
+"1091","regulation of RNA metabolic process","USF2",-0.597047999999999
+"1092","regulation of RNA metabolic process","KDM2B",2.27852380952381
+"1093","regulation of RNA metabolic process","PAIP1",3.92945192307692
+"1094","regulation of RNA metabolic process","RELB",-3.97656198347107
+"1095","regulation of RNA metabolic process","ZNF680",4.02437404580153
+"1096","regulation of RNA metabolic process","HOXA4",-2.52135294117647
+"1097","regulation of RNA metabolic process","MAGEB2",4.39077358490566
+"1098","regulation of RNA metabolic process","ZNF268",1.94423770491803
+"1099","regulation of RNA metabolic process","SMARCD3",-1.1427265625
+"1100","regulation of RNA metabolic process","ZNF341",5.56773214285714
+"1101","regulation of RNA metabolic process","NR2F6",0.872768595041322
+"1102","regulation of RNA metabolic process","CCND3",7.12449056603773
+"1103","regulation of RNA metabolic process","USP9X",0.157632478632479
+"1104","regulation of RNA metabolic process","ASAH1",1.32746268656716
+"1105","regulation of RNA metabolic process","DDX49",6.36738461538462
+"1106","regulation of RNA metabolic process","TLX1",1.94435643564356
+"1107","regulation of RNA metabolic process","MYCBP",-1.96327118644068
+"1108","regulation of RNA metabolic process","ZMYND8",1.73054455445545
+"1109","regulation of RNA metabolic process","MNX1",1.3237641509434
+"1110","regulation of RNA metabolic process","ZFP64",1.45527205882353
+"1111","regulation of RNA metabolic process","PHAX",-6.67290434782609
+"1112","regulation of RNA metabolic process","NRARP",-1.34846363636364
+"1113","regulation of RNA metabolic process","SRSF5",4.95079207920792
+"1114","regulation of RNA metabolic process","PROX1",-3.03971559633027
+"1115","regulation of RNA metabolic process","ID1",7.06989108910891
+"1116","regulation of RNA metabolic process","HES3",1.837
+"1117","regulation of RNA metabolic process","UBE2D3",2.25707818930041
+"1118","regulation of RNA metabolic process","MED6",1.73226993865031
+"1119","regulation of RNA metabolic process","ZNF579",3.89034615384615
+"1120","regulation of RNA metabolic process","TET2",4.83614876033058
+"1121","regulation of RNA metabolic process","ETV3",1.64311875
+"1122","regulation of RNA metabolic process","ZHX1",2.17730630630631
+"1123","regulation of RNA metabolic process","PPP2CB",-4.59121848739496
+"1124","regulation of RNA metabolic process","ZNF850",-0.835447619047619
+"1125","regulation of RNA metabolic process","IKZF2",0.535715447154472
+"1126","regulation of RNA metabolic process","GSC2",-4.26838613861386
+"1127","regulation of RNA metabolic process","CBY1",0.247319327731092
+"1128","regulation of RNA metabolic process","PURB",1.18850694444444
+"1129","regulation of RNA metabolic process","RBAK",2.45651829268293
+"1130","regulation of RNA metabolic process","TAF13",5.4725701754386
+"1131","regulation of RNA metabolic process","ANXA3",2.94269117647059
+"1132","regulation of RNA metabolic process","ZNF74",3.83675384615385
+"1133","regulation of RNA metabolic process","OLIG2",0.481404761904762
+"1134","regulation of RNA metabolic process","MYT1L",1.21879310344828
+"1135","regulation of RNA metabolic process","CUX1",5.06254385964912
+"1136","regulation of RNA metabolic process","GLYR1",8.03013725490196
+"1137","regulation of RNA metabolic process","MAPK9",3.30087248322148
+"1138","regulation of RNA metabolic process","CPSF7",3.21877941176471
+"1139","regulation of RNA metabolic process","SOX4",-1.20075454545455
+"1140","regulation of RNA metabolic process","TBXT",3.01036936936937
+"1141","regulation of RNA metabolic process","FOXO4",1.48817391304348
+"1142","regulation of RNA metabolic process","PPARD",4.18376
+"1143","regulation of RNA metabolic process","KLF9",-5.19609375
+"1144","regulation of RNA metabolic process","MLLT6",1.81683620689655
+"1145","regulation of RNA metabolic process","SHC1",2.00629323308271
+"1146","regulation of RNA metabolic process","ACIN1",2.46399107142857
+"1147","regulation of RNA metabolic process","ZNF215",4.65004411764706
+"1148","regulation of RNA metabolic process","FSTL3",3.2584
+"1149","regulation of RNA metabolic process","SIM1",1.861225
+"1150","regulation of RNA metabolic process","NFIB",-2.93631147540984
+"1151","regulation of RNA metabolic process","GLI4",3.91878048780488
+"1152","regulation of RNA metabolic process","TEAD3",-6.41766137566138
+"1153","regulation of RNA metabolic process","PELI1",1.62776363636364
+"1154","regulation of RNA metabolic process","SNF8",5.75875454545455
+"1155","regulation of RNA metabolic process","ZNF530",6.23266013071895
+"1156","regulation of RNA metabolic process","RIPK1",-1.27068907563025
+"1157","regulation of RNA metabolic process","NKX6-2",5.83370370370371
+"1158","regulation of RNA metabolic process","SKI",4.09915315315315
+"1159","regulation of RNA metabolic process","METTL14",-1.04201829268293
+"1160","regulation of RNA metabolic process","CASZ1",3.25991240875912
+"1161","regulation of RNA metabolic process","MED1",8.64577777777778
+"1162","regulation of RNA metabolic process","KDM2A",-2.39808823529412
+"1163","regulation of RNA metabolic process","CHCHD10",3.98072847682119
+"1164","regulation of RNA metabolic process","OTUD7B",1.70816981132075
+"1165","regulation of RNA metabolic process","ELK4",3.20176923076923
+"1166","regulation of RNA metabolic process","IRF2BPL",6.63539285714286
+"1167","regulation of RNA metabolic process","LANCL2",2.97067961165049
+"1168","regulation of RNA metabolic process","CNOT9",2.326
+"1169","regulation of RNA metabolic process","RELN",23.8158076923077
+"1170","regulation of RNA metabolic process","ASCL2",6.5857
+"1171","regulation of RNA metabolic process","ZNF527",-1.7231
+"1172","regulation of RNA metabolic process","MECOM",3.12173684210526
+"1173","regulation of RNA metabolic process","HNRNPC",35.3681188118812
+"1174","regulation of RNA metabolic process","TTC21B",1.83321705426357
+"1175","regulation of RNA metabolic process","RBM15B",26.4460471698113
+"1176","regulation of RNA metabolic process","ZNF736",3.82413846153846
+"1177","regulation of RNA metabolic process","LIN54",-0.207485714285714
+"1178","regulation of RNA metabolic process","KCNH2",-1.80118045112782
+"1179","regulation of RNA metabolic process","HOMEZ",6.61112230215827
+"1180","regulation of RNA metabolic process","ELP2",4.15764444444444
+"1181","regulation of RNA metabolic process","MYO1C",3.39400609756098
+"1182","regulation of RNA metabolic process","ZNF572",0.739692307692308
+"1183","regulation of RNA metabolic process","ANXA4",-3.3978431372549
+"1184","regulation of RNA metabolic process","TAF15",10.1749504950495
+"1185","regulation of RNA metabolic process","APOBEC3C",1.47925748502994
+"1186","regulation of RNA metabolic process","MZF1",1.55219402985075
+"1187","regulation of RNA metabolic process","FZD2",-2.19207766990291
+"1188","regulation of RNA metabolic process","TFDP1",-2.10745283018868
+"1189","regulation of RNA metabolic process","RBM12B",5.02642201834863
+"1190","regulation of RNA metabolic process","NUCKS1",-0.917269938650307
+"1191","regulation of RNA metabolic process","ZNF623",2.86491891891892
+"1192","regulation of RNA metabolic process","TNFRSF1B",1.42097931034483
+"1193","regulation of RNA metabolic process","ERC1",2.81504615384615
+"1194","regulation of RNA metabolic process","TWIST1",5.05020661157025
+"1195","regulation of RNA metabolic process","PLSCR1",2.01127272727273
+"1196","regulation of RNA metabolic process","RBL2",-0.804036363636364
+"1197","regulation of RNA metabolic process","ZNF222",5.81634862385321
+"1198","regulation of RNA metabolic process","ZNF232",6.38981372549019
+"1199","regulation of RNA metabolic process","HOXA3",-9.12504716981132
+"1200","regulation of RNA metabolic process","NR5A1",-4.96371287128713
+"1201","regulation of RNA metabolic process","UBE2N",-3.11134965034965
+"1202","regulation of RNA metabolic process","PRDX6",-0.352885245901639
+"1203","regulation of RNA metabolic process","WAS",4.07263513513514
+"1204","regulation of RNA metabolic process","PDE8A",2.92763636363636
+"1205","regulation of RNA metabolic process","MTA2",5.42431355932203
+"1206","regulation of RNA metabolic process","ETS1",-3.59953271028037
+"1207","regulation of RNA metabolic process","IRF5",4.64355084745763
+"1208","regulation of RNA metabolic process","ZC3H12A",6.20014285714286
+"1209","regulation of RNA metabolic process","PEX2",3.83511650485437
+"1210","regulation of RNA metabolic process","FOXI1",1.44487428571429
+"1211","regulation of RNA metabolic process","KAT2A",5.3169014084507
+"1212","regulation of RNA metabolic process","NFATC2",-1.75001234567901
+"1213","regulation of RNA metabolic process","COMMD6",3.3463768115942
+"1214","regulation of RNA metabolic process","ATF1",-0.150587155963303
+"1215","regulation of RNA metabolic process","CCDC124",-1.44413533834586
+"1216","regulation of RNA metabolic process","ZFP36L1",-1.15308661417323
+"1217","regulation of RNA metabolic process","RARA",5.0905375
+"1218","regulation of RNA metabolic process","SFSWAP",4.43804347826087
+"1219","regulation of RNA metabolic process","CREBL2",0.752758620689655
+"1220","regulation of RNA metabolic process","ZEB1",-5.49546601941748
+"1221","regulation of RNA metabolic process","ZIC3",1.35415833333333
+"1222","regulation of RNA metabolic process","PTBP3",2.82453672316384
+"1223","regulation of RNA metabolic process","RIPK2",-2.72317213114754
+"1224","regulation of RNA metabolic process","KCNIP3",2.65167326732673
+"1225","regulation of RNA metabolic process","MEX3D",-6.56835810810811
+"1226","regulation of RNA metabolic process","KLF11",0.399168421052632
+"1227","regulation of RNA metabolic process","BCOR",-0.450338842975207
+"1228","regulation of RNA metabolic process","WWC2",-0.507172727272727
+"1229","regulation of RNA metabolic process","HOXC8",2.79115596330275
+"1230","regulation of RNA metabolic process","ATXN7L3",3.88531693989071
+"1231","regulation of RNA metabolic process","WDR43",1.99016030534351
+"1232","regulation of RNA metabolic process","MLLT3",-0.51181954887218
+"1233","regulation of RNA metabolic process","DMD",2.65758201058201
+"1234","regulation of RNA metabolic process","LRRC14",9.22237984496124
+"1235","regulation of RNA metabolic process","ZBTB7A",-0.985745098039216
+"1236","regulation of RNA metabolic process","CSRNP3",3.182
+"1237","regulation of RNA metabolic process","LBX2",5.66341176470588
+"1238","regulation of RNA metabolic process","FOXE3",5.09370476190476
+"1239","regulation of RNA metabolic process","RHOG",-2.94559627329193
+"1240","regulation of RNA metabolic process","ZNF345",-7.19012213740458
+"1241","regulation of RNA metabolic process","CRYAB",2.01402362204724
+"1242","regulation of RNA metabolic process","PIM2",3.44372897196262
+"1243","regulation of RNA metabolic process","PTEN",2.91622330097087
+"1244","regulation of RNA metabolic process","MBTPS2",2.68220740740741
+"1245","regulation of RNA metabolic process","NFATC2IP",-2.41825517241379
+"1246","regulation of RNA metabolic process","ZNF324B",-0.33426724137931
+"1247","regulation of RNA metabolic process","KLF13",4.04594482758621
+"1248","regulation of RNA metabolic process","DHX33",-4.62216822429907
+"1249","regulation of RNA metabolic process","SETD7",-1.32493442622951
+"1250","regulation of RNA metabolic process","MAGED2",0.551802325581395
+"1251","regulation of RNA metabolic process","BRIP1",8.08720134228188
+"1252","regulation of RNA metabolic process","NFRKB",4.45057142857143
+"1253","regulation of RNA metabolic process","ARNTL2",1.20788333333333
+"1254","regulation of RNA metabolic process","SIX6",-9.03729197080292
+"1255","regulation of RNA metabolic process","CIAO1",-0.78695045045045
+"1256","regulation of RNA metabolic process","TFCP2",2.96547580645161
+"1257","regulation of RNA metabolic process","PDX1",0.454629310344827
+"1258","regulation of RNA metabolic process","SPTY2D1",4.79370192307692
+"1259","regulation of RNA metabolic process","PPP1R12A",-4.22255156950673
+"1260","regulation of RNA metabolic process","HTATSF1",5.96941176470588
+"1261","regulation of RNA metabolic process","HIPK2",6.73891262135922
+"1262","regulation of RNA metabolic process","BIRC2",8.96960747663551
+"1263","regulation of RNA metabolic process","RERE",5.81490196078431
+"1264","RNA biosynthetic process","RPS6KA1",5.8134469273743
+"1265","RNA biosynthetic process","DEDD",-13.2049449541284
+"1266","RNA biosynthetic process","INTS13",1.64439655172414
+"1267","RNA biosynthetic process","ETV6",2.57494017094017
+"1268","RNA biosynthetic process","RIOX1",7.15940740740741
+"1269","RNA biosynthetic process","TFB2M",-2.28904081632653
+"1270","RNA biosynthetic process","CREB5",3.70352777777778
+"1271","RNA biosynthetic process","ZNF550",1.77864516129032
+"1272","RNA biosynthetic process","ATXN7",-0.89154347826087
+"1273","RNA biosynthetic process","IRX5",-1.51342857142857
+"1274","RNA biosynthetic process","USF2",-0.597047999999999
+"1275","RNA biosynthetic process","KDM2B",2.27852380952381
+"1276","RNA biosynthetic process","RELB",-3.97656198347107
+"1277","RNA biosynthetic process","ZNF680",4.02437404580153
+"1278","RNA biosynthetic process","HOXA4",-2.52135294117647
+"1279","RNA biosynthetic process","MAGEB2",4.39077358490566
+"1280","RNA biosynthetic process","ZNF268",1.94423770491803
+"1281","RNA biosynthetic process","SMARCD3",-1.1427265625
+"1282","RNA biosynthetic process","ZNF341",5.56773214285714
+"1283","RNA biosynthetic process","NR2F6",0.872768595041322
+"1284","RNA biosynthetic process","CCND3",7.12449056603773
+"1285","RNA biosynthetic process","USP9X",0.157632478632479
+"1286","RNA biosynthetic process","ASAH1",1.32746268656716
+"1287","RNA biosynthetic process","TLX1",1.94435643564356
+"1288","RNA biosynthetic process","MYCBP",-1.96327118644068
+"1289","RNA biosynthetic process","ZMYND8",1.73054455445545
+"1290","RNA biosynthetic process","MNX1",1.3237641509434
+"1291","RNA biosynthetic process","ZFP64",1.45527205882353
+"1292","RNA biosynthetic process","NRARP",-1.34846363636364
+"1293","RNA biosynthetic process","PROX1",-3.03971559633027
+"1294","RNA biosynthetic process","ID1",7.06989108910891
+"1295","RNA biosynthetic process","HES3",1.837
+"1296","RNA biosynthetic process","UBE2D3",2.25707818930041
+"1297","RNA biosynthetic process","MED6",1.73226993865031
+"1298","RNA biosynthetic process","ZNF579",3.89034615384615
+"1299","RNA biosynthetic process","TET2",4.83614876033058
+"1300","RNA biosynthetic process","ETV3",1.64311875
+"1301","RNA biosynthetic process","ZHX1",2.17730630630631
+"1302","RNA biosynthetic process","PPP2CB",-4.59121848739496
+"1303","RNA biosynthetic process","ZNF850",-0.835447619047619
+"1304","RNA biosynthetic process","IKZF2",0.535715447154472
+"1305","RNA biosynthetic process","GSC2",-4.26838613861386
+"1306","RNA biosynthetic process","CBY1",0.247319327731092
+"1307","RNA biosynthetic process","GTF3C4",6.39512727272727
+"1308","RNA biosynthetic process","PURB",1.18850694444444
+"1309","RNA biosynthetic process","GTF3C5",4.84515217391304
+"1310","RNA biosynthetic process","RBAK",2.45651829268293
+"1311","RNA biosynthetic process","TAF13",5.4725701754386
+"1312","RNA biosynthetic process","ANXA3",2.94269117647059
+"1313","RNA biosynthetic process","ZNF74",3.83675384615385
+"1314","RNA biosynthetic process","OLIG2",0.481404761904762
+"1315","RNA biosynthetic process","POLR2E",4.02520567375887
+"1316","RNA biosynthetic process","MYT1L",1.21879310344828
+"1317","RNA biosynthetic process","CUX1",5.06254385964912
+"1318","RNA biosynthetic process","GLYR1",8.03013725490196
+"1319","RNA biosynthetic process","RO60",4.77161931818182
+"1320","RNA biosynthetic process","MAPK9",3.30087248322148
+"1321","RNA biosynthetic process","SOX4",-1.20075454545455
+"1322","RNA biosynthetic process","TBXT",3.01036936936937
+"1323","RNA biosynthetic process","FOXO4",1.48817391304348
+"1324","RNA biosynthetic process","PPARD",4.18376
+"1325","RNA biosynthetic process","KLF9",-5.19609375
+"1326","RNA biosynthetic process","MLLT6",1.81683620689655
+"1327","RNA biosynthetic process","SHC1",2.00629323308271
+"1328","RNA biosynthetic process","ZNF215",4.65004411764706
+"1329","RNA biosynthetic process","FSTL3",3.2584
+"1330","RNA biosynthetic process","SIM1",1.861225
+"1331","RNA biosynthetic process","NFIB",-2.93631147540984
+"1332","RNA biosynthetic process","GLI4",3.91878048780488
+"1333","RNA biosynthetic process","TEAD3",-6.41766137566138
+"1334","RNA biosynthetic process","PELI1",1.62776363636364
+"1335","RNA biosynthetic process","SNF8",5.75875454545455
+"1336","RNA biosynthetic process","ZNF530",6.23266013071895
+"1337","RNA biosynthetic process","RIPK1",-1.27068907563025
+"1338","RNA biosynthetic process","NKX6-2",5.83370370370371
+"1339","RNA biosynthetic process","SKI",4.09915315315315
+"1340","RNA biosynthetic process","CASZ1",3.25991240875912
+"1341","RNA biosynthetic process","MED1",8.64577777777778
+"1342","RNA biosynthetic process","KDM2A",-2.39808823529412
+"1343","RNA biosynthetic process","CHCHD10",3.98072847682119
+"1344","RNA biosynthetic process","OTUD7B",1.70816981132075
+"1345","RNA biosynthetic process","ELK4",3.20176923076923
+"1346","RNA biosynthetic process","IRF2BPL",6.63539285714286
+"1347","RNA biosynthetic process","LANCL2",2.97067961165049
+"1348","RNA biosynthetic process","CNOT9",2.326
+"1349","RNA biosynthetic process","RELN",23.8158076923077
+"1350","RNA biosynthetic process","ASCL2",6.5857
+"1351","RNA biosynthetic process","ZNF527",-1.7231
+"1352","RNA biosynthetic process","MECOM",3.12173684210526
+"1353","RNA biosynthetic process","TTC21B",1.83321705426357
+"1354","RNA biosynthetic process","ZNF736",3.82413846153846
+"1355","RNA biosynthetic process","LIN54",-0.207485714285714
+"1356","RNA biosynthetic process","KCNH2",-1.80118045112782
+"1357","RNA biosynthetic process","HOMEZ",6.61112230215827
+"1358","RNA biosynthetic process","ELP2",4.15764444444444
+"1359","RNA biosynthetic process","MYO1C",3.39400609756098
+"1360","RNA biosynthetic process","ZNF572",0.739692307692308
+"1361","RNA biosynthetic process","ANXA4",-3.3978431372549
+"1362","RNA biosynthetic process","TAF15",10.1749504950495
+"1363","RNA biosynthetic process","APOBEC3C",1.47925748502994
+"1364","RNA biosynthetic process","MZF1",1.55219402985075
+"1365","RNA biosynthetic process","FZD2",-2.19207766990291
+"1366","RNA biosynthetic process","TFDP1",-2.10745283018868
+"1367","RNA biosynthetic process","NUCKS1",-0.917269938650307
+"1368","RNA biosynthetic process","ZNF623",2.86491891891892
+"1369","RNA biosynthetic process","TNFRSF1B",1.42097931034483
+"1370","RNA biosynthetic process","ERC1",2.81504615384615
+"1371","RNA biosynthetic process","TWIST1",5.05020661157025
+"1372","RNA biosynthetic process","PLSCR1",2.01127272727273
+"1373","RNA biosynthetic process","RBL2",-0.804036363636364
+"1374","RNA biosynthetic process","ZNF222",5.81634862385321
+"1375","RNA biosynthetic process","ZNF232",6.38981372549019
+"1376","RNA biosynthetic process","HOXA3",-9.12504716981132
+"1377","RNA biosynthetic process","SLC25A33",4.49430508474576
+"1378","RNA biosynthetic process","NR5A1",-4.96371287128713
+"1379","RNA biosynthetic process","UBE2N",-3.11134965034965
+"1380","RNA biosynthetic process","WAS",4.07263513513514
+"1381","RNA biosynthetic process","PDE8A",2.92763636363636
+"1382","RNA biosynthetic process","MTA2",5.42431355932203
+"1383","RNA biosynthetic process","ETS1",-3.59953271028037
+"1384","RNA biosynthetic process","IRF5",4.64355084745763
+"1385","RNA biosynthetic process","ZC3H12A",6.20014285714286
+"1386","RNA biosynthetic process","PEX2",3.83511650485437
+"1387","RNA biosynthetic process","FOXI1",1.44487428571429
+"1388","RNA biosynthetic process","KAT2A",5.3169014084507
+"1389","RNA biosynthetic process","NFATC2",-1.75001234567901
+"1390","RNA biosynthetic process","COMMD6",3.3463768115942
+"1391","RNA biosynthetic process","ATF1",-0.150587155963303
+"1392","RNA biosynthetic process","CCDC124",-1.44413533834586
+"1393","RNA biosynthetic process","RARA",5.0905375
+"1394","RNA biosynthetic process","CREBL2",0.752758620689655
+"1395","RNA biosynthetic process","ZEB1",-5.49546601941748
+"1396","RNA biosynthetic process","ZIC3",1.35415833333333
+"1397","RNA biosynthetic process","RIPK2",-2.72317213114754
+"1398","RNA biosynthetic process","KCNIP3",2.65167326732673
+"1399","RNA biosynthetic process","KLF11",0.399168421052632
+"1400","RNA biosynthetic process","BCOR",-0.450338842975207
+"1401","RNA biosynthetic process","WWC2",-0.507172727272727
+"1402","RNA biosynthetic process","HOXC8",2.79115596330275
+"1403","RNA biosynthetic process","ATXN7L3",3.88531693989071
+"1404","RNA biosynthetic process","WDR43",1.99016030534351
+"1405","RNA biosynthetic process","MLLT3",-0.51181954887218
+"1406","RNA biosynthetic process","DMD",2.65758201058201
+"1407","RNA biosynthetic process","LRRC14",9.22237984496124
+"1408","RNA biosynthetic process","ZBTB7A",-0.985745098039216
+"1409","RNA biosynthetic process","CSRNP3",3.182
+"1410","RNA biosynthetic process","LBX2",5.66341176470588
+"1411","RNA biosynthetic process","FOXE3",5.09370476190476
+"1412","RNA biosynthetic process","RHOG",-2.94559627329193
+"1413","RNA biosynthetic process","ZNF345",-7.19012213740458
+"1414","RNA biosynthetic process","CRYAB",2.01402362204724
+"1415","RNA biosynthetic process","PIM2",3.44372897196262
+"1416","RNA biosynthetic process","PTEN",2.91622330097087
+"1417","RNA biosynthetic process","MBTPS2",2.68220740740741
+"1418","RNA biosynthetic process","NFATC2IP",-2.41825517241379
+"1419","RNA biosynthetic process","ZNF324B",-0.33426724137931
+"1420","RNA biosynthetic process","KLF13",4.04594482758621
+"1421","RNA biosynthetic process","DHX33",-4.62216822429907
+"1422","RNA biosynthetic process","SETD7",-1.32493442622951
+"1423","RNA biosynthetic process","MAGED2",0.551802325581395
+"1424","RNA biosynthetic process","BRIP1",8.08720134228188
+"1425","RNA biosynthetic process","NFRKB",4.45057142857143
+"1426","RNA biosynthetic process","ARNTL2",1.20788333333333
+"1427","RNA biosynthetic process","SIX6",-9.03729197080292
+"1428","RNA biosynthetic process","CIAO1",-0.78695045045045
+"1429","RNA biosynthetic process","TFCP2",2.96547580645161
+"1430","RNA biosynthetic process","PDX1",0.454629310344827
+"1431","RNA biosynthetic process","SPTY2D1",4.79370192307692
+"1432","RNA biosynthetic process","PPP1R12A",-4.22255156950673
+"1433","RNA biosynthetic process","HTATSF1",5.96941176470588
+"1434","RNA biosynthetic process","PIR",9.55933333333333
+"1435","RNA biosynthetic process","HIPK2",6.73891262135922
+"1436","RNA biosynthetic process","BIRC2",8.96960747663551
+"1437","RNA biosynthetic process","RERE",5.81490196078431
+"1438","regulation of RNA biosynthetic process","RPS6KA1",5.8134469273743
+"1439","regulation of RNA biosynthetic process","DEDD",-13.2049449541284
+"1440","regulation of RNA biosynthetic process","INTS13",1.64439655172414
+"1441","regulation of RNA biosynthetic process","ETV6",2.57494017094017
+"1442","regulation of RNA biosynthetic process","RIOX1",7.15940740740741
+"1443","regulation of RNA biosynthetic process","TFB2M",-2.28904081632653
+"1444","regulation of RNA biosynthetic process","CREB5",3.70352777777778
+"1445","regulation of RNA biosynthetic process","ZNF550",1.77864516129032
+"1446","regulation of RNA biosynthetic process","ATXN7",-0.89154347826087
+"1447","regulation of RNA biosynthetic process","IRX5",-1.51342857142857
+"1448","regulation of RNA biosynthetic process","USF2",-0.597047999999999
+"1449","regulation of RNA biosynthetic process","KDM2B",2.27852380952381
+"1450","regulation of RNA biosynthetic process","RELB",-3.97656198347107
+"1451","regulation of RNA biosynthetic process","ZNF680",4.02437404580153
+"1452","regulation of RNA biosynthetic process","HOXA4",-2.52135294117647
+"1453","regulation of RNA biosynthetic process","MAGEB2",4.39077358490566
+"1454","regulation of RNA biosynthetic process","ZNF268",1.94423770491803
+"1455","regulation of RNA biosynthetic process","SMARCD3",-1.1427265625
+"1456","regulation of RNA biosynthetic process","ZNF341",5.56773214285714
+"1457","regulation of RNA biosynthetic process","NR2F6",0.872768595041322
+"1458","regulation of RNA biosynthetic process","CCND3",7.12449056603773
+"1459","regulation of RNA biosynthetic process","USP9X",0.157632478632479
+"1460","regulation of RNA biosynthetic process","ASAH1",1.32746268656716
+"1461","regulation of RNA biosynthetic process","TLX1",1.94435643564356
+"1462","regulation of RNA biosynthetic process","MYCBP",-1.96327118644068
+"1463","regulation of RNA biosynthetic process","ZMYND8",1.73054455445545
+"1464","regulation of RNA biosynthetic process","MNX1",1.3237641509434
+"1465","regulation of RNA biosynthetic process","ZFP64",1.45527205882353
+"1466","regulation of RNA biosynthetic process","NRARP",-1.34846363636364
+"1467","regulation of RNA biosynthetic process","PROX1",-3.03971559633027
+"1468","regulation of RNA biosynthetic process","ID1",7.06989108910891
+"1469","regulation of RNA biosynthetic process","HES3",1.837
+"1470","regulation of RNA biosynthetic process","UBE2D3",2.25707818930041
+"1471","regulation of RNA biosynthetic process","MED6",1.73226993865031
+"1472","regulation of RNA biosynthetic process","ZNF579",3.89034615384615
+"1473","regulation of RNA biosynthetic process","TET2",4.83614876033058
+"1474","regulation of RNA biosynthetic process","ETV3",1.64311875
+"1475","regulation of RNA biosynthetic process","ZHX1",2.17730630630631
+"1476","regulation of RNA biosynthetic process","PPP2CB",-4.59121848739496
+"1477","regulation of RNA biosynthetic process","ZNF850",-0.835447619047619
+"1478","regulation of RNA biosynthetic process","IKZF2",0.535715447154472
+"1479","regulation of RNA biosynthetic process","GSC2",-4.26838613861386
+"1480","regulation of RNA biosynthetic process","CBY1",0.247319327731092
+"1481","regulation of RNA biosynthetic process","PURB",1.18850694444444
+"1482","regulation of RNA biosynthetic process","RBAK",2.45651829268293
+"1483","regulation of RNA biosynthetic process","TAF13",5.4725701754386
+"1484","regulation of RNA biosynthetic process","ANXA3",2.94269117647059
+"1485","regulation of RNA biosynthetic process","ZNF74",3.83675384615385
+"1486","regulation of RNA biosynthetic process","OLIG2",0.481404761904762
+"1487","regulation of RNA biosynthetic process","MYT1L",1.21879310344828
+"1488","regulation of RNA biosynthetic process","CUX1",5.06254385964912
+"1489","regulation of RNA biosynthetic process","GLYR1",8.03013725490196
+"1490","regulation of RNA biosynthetic process","MAPK9",3.30087248322148
+"1491","regulation of RNA biosynthetic process","SOX4",-1.20075454545455
+"1492","regulation of RNA biosynthetic process","TBXT",3.01036936936937
+"1493","regulation of RNA biosynthetic process","FOXO4",1.48817391304348
+"1494","regulation of RNA biosynthetic process","PPARD",4.18376
+"1495","regulation of RNA biosynthetic process","KLF9",-5.19609375
+"1496","regulation of RNA biosynthetic process","MLLT6",1.81683620689655
+"1497","regulation of RNA biosynthetic process","SHC1",2.00629323308271
+"1498","regulation of RNA biosynthetic process","ZNF215",4.65004411764706
+"1499","regulation of RNA biosynthetic process","FSTL3",3.2584
+"1500","regulation of RNA biosynthetic process","SIM1",1.861225
+"1501","regulation of RNA biosynthetic process","NFIB",-2.93631147540984
+"1502","regulation of RNA biosynthetic process","GLI4",3.91878048780488
+"1503","regulation of RNA biosynthetic process","TEAD3",-6.41766137566138
+"1504","regulation of RNA biosynthetic process","PELI1",1.62776363636364
+"1505","regulation of RNA biosynthetic process","SNF8",5.75875454545455
+"1506","regulation of RNA biosynthetic process","ZNF530",6.23266013071895
+"1507","regulation of RNA biosynthetic process","RIPK1",-1.27068907563025
+"1508","regulation of RNA biosynthetic process","NKX6-2",5.83370370370371
+"1509","regulation of RNA biosynthetic process","SKI",4.09915315315315
+"1510","regulation of RNA biosynthetic process","CASZ1",3.25991240875912
+"1511","regulation of RNA biosynthetic process","MED1",8.64577777777778
+"1512","regulation of RNA biosynthetic process","KDM2A",-2.39808823529412
+"1513","regulation of RNA biosynthetic process","CHCHD10",3.98072847682119
+"1514","regulation of RNA biosynthetic process","OTUD7B",1.70816981132075
+"1515","regulation of RNA biosynthetic process","ELK4",3.20176923076923
+"1516","regulation of RNA biosynthetic process","IRF2BPL",6.63539285714286
+"1517","regulation of RNA biosynthetic process","LANCL2",2.97067961165049
+"1518","regulation of RNA biosynthetic process","CNOT9",2.326
+"1519","regulation of RNA biosynthetic process","RELN",23.8158076923077
+"1520","regulation of RNA biosynthetic process","ASCL2",6.5857
+"1521","regulation of RNA biosynthetic process","ZNF527",-1.7231
+"1522","regulation of RNA biosynthetic process","MECOM",3.12173684210526
+"1523","regulation of RNA biosynthetic process","TTC21B",1.83321705426357
+"1524","regulation of RNA biosynthetic process","ZNF736",3.82413846153846
+"1525","regulation of RNA biosynthetic process","LIN54",-0.207485714285714
+"1526","regulation of RNA biosynthetic process","KCNH2",-1.80118045112782
+"1527","regulation of RNA biosynthetic process","HOMEZ",6.61112230215827
+"1528","regulation of RNA biosynthetic process","ELP2",4.15764444444444
+"1529","regulation of RNA biosynthetic process","MYO1C",3.39400609756098
+"1530","regulation of RNA biosynthetic process","ZNF572",0.739692307692308
+"1531","regulation of RNA biosynthetic process","ANXA4",-3.3978431372549
+"1532","regulation of RNA biosynthetic process","TAF15",10.1749504950495
+"1533","regulation of RNA biosynthetic process","APOBEC3C",1.47925748502994
+"1534","regulation of RNA biosynthetic process","MZF1",1.55219402985075
+"1535","regulation of RNA biosynthetic process","FZD2",-2.19207766990291
+"1536","regulation of RNA biosynthetic process","TFDP1",-2.10745283018868
+"1537","regulation of RNA biosynthetic process","NUCKS1",-0.917269938650307
+"1538","regulation of RNA biosynthetic process","ZNF623",2.86491891891892
+"1539","regulation of RNA biosynthetic process","TNFRSF1B",1.42097931034483
+"1540","regulation of RNA biosynthetic process","ERC1",2.81504615384615
+"1541","regulation of RNA biosynthetic process","TWIST1",5.05020661157025
+"1542","regulation of RNA biosynthetic process","PLSCR1",2.01127272727273
+"1543","regulation of RNA biosynthetic process","RBL2",-0.804036363636364
+"1544","regulation of RNA biosynthetic process","ZNF222",5.81634862385321
+"1545","regulation of RNA biosynthetic process","ZNF232",6.38981372549019
+"1546","regulation of RNA biosynthetic process","HOXA3",-9.12504716981132
+"1547","regulation of RNA biosynthetic process","NR5A1",-4.96371287128713
+"1548","regulation of RNA biosynthetic process","UBE2N",-3.11134965034965
+"1549","regulation of RNA biosynthetic process","WAS",4.07263513513514
+"1550","regulation of RNA biosynthetic process","PDE8A",2.92763636363636
+"1551","regulation of RNA biosynthetic process","MTA2",5.42431355932203
+"1552","regulation of RNA biosynthetic process","ETS1",-3.59953271028037
+"1553","regulation of RNA biosynthetic process","IRF5",4.64355084745763
+"1554","regulation of RNA biosynthetic process","ZC3H12A",6.20014285714286
+"1555","regulation of RNA biosynthetic process","PEX2",3.83511650485437
+"1556","regulation of RNA biosynthetic process","FOXI1",1.44487428571429
+"1557","regulation of RNA biosynthetic process","KAT2A",5.3169014084507
+"1558","regulation of RNA biosynthetic process","NFATC2",-1.75001234567901
+"1559","regulation of RNA biosynthetic process","COMMD6",3.3463768115942
+"1560","regulation of RNA biosynthetic process","ATF1",-0.150587155963303
+"1561","regulation of RNA biosynthetic process","CCDC124",-1.44413533834586
+"1562","regulation of RNA biosynthetic process","RARA",5.0905375
+"1563","regulation of RNA biosynthetic process","CREBL2",0.752758620689655
+"1564","regulation of RNA biosynthetic process","ZEB1",-5.49546601941748
+"1565","regulation of RNA biosynthetic process","ZIC3",1.35415833333333
+"1566","regulation of RNA biosynthetic process","RIPK2",-2.72317213114754
+"1567","regulation of RNA biosynthetic process","KCNIP3",2.65167326732673
+"1568","regulation of RNA biosynthetic process","KLF11",0.399168421052632
+"1569","regulation of RNA biosynthetic process","BCOR",-0.450338842975207
+"1570","regulation of RNA biosynthetic process","WWC2",-0.507172727272727
+"1571","regulation of RNA biosynthetic process","HOXC8",2.79115596330275
+"1572","regulation of RNA biosynthetic process","ATXN7L3",3.88531693989071
+"1573","regulation of RNA biosynthetic process","WDR43",1.99016030534351
+"1574","regulation of RNA biosynthetic process","MLLT3",-0.51181954887218
+"1575","regulation of RNA biosynthetic process","DMD",2.65758201058201
+"1576","regulation of RNA biosynthetic process","LRRC14",9.22237984496124
+"1577","regulation of RNA biosynthetic process","ZBTB7A",-0.985745098039216
+"1578","regulation of RNA biosynthetic process","CSRNP3",3.182
+"1579","regulation of RNA biosynthetic process","LBX2",5.66341176470588
+"1580","regulation of RNA biosynthetic process","FOXE3",5.09370476190476
+"1581","regulation of RNA biosynthetic process","RHOG",-2.94559627329193
+"1582","regulation of RNA biosynthetic process","ZNF345",-7.19012213740458
+"1583","regulation of RNA biosynthetic process","CRYAB",2.01402362204724
+"1584","regulation of RNA biosynthetic process","PIM2",3.44372897196262
+"1585","regulation of RNA biosynthetic process","PTEN",2.91622330097087
+"1586","regulation of RNA biosynthetic process","MBTPS2",2.68220740740741
+"1587","regulation of RNA biosynthetic process","NFATC2IP",-2.41825517241379
+"1588","regulation of RNA biosynthetic process","ZNF324B",-0.33426724137931
+"1589","regulation of RNA biosynthetic process","KLF13",4.04594482758621
+"1590","regulation of RNA biosynthetic process","DHX33",-4.62216822429907
+"1591","regulation of RNA biosynthetic process","SETD7",-1.32493442622951
+"1592","regulation of RNA biosynthetic process","MAGED2",0.551802325581395
+"1593","regulation of RNA biosynthetic process","BRIP1",8.08720134228188
+"1594","regulation of RNA biosynthetic process","NFRKB",4.45057142857143
+"1595","regulation of RNA biosynthetic process","ARNTL2",1.20788333333333
+"1596","regulation of RNA biosynthetic process","SIX6",-9.03729197080292
+"1597","regulation of RNA biosynthetic process","CIAO1",-0.78695045045045
+"1598","regulation of RNA biosynthetic process","TFCP2",2.96547580645161
+"1599","regulation of RNA biosynthetic process","PDX1",0.454629310344827
+"1600","regulation of RNA biosynthetic process","SPTY2D1",4.79370192307692
+"1601","regulation of RNA biosynthetic process","PPP1R12A",-4.22255156950673
+"1602","regulation of RNA biosynthetic process","HTATSF1",5.96941176470588
+"1603","regulation of RNA biosynthetic process","HIPK2",6.73891262135922
+"1604","regulation of RNA biosynthetic process","BIRC2",8.96960747663551
+"1605","regulation of RNA biosynthetic process","RERE",5.81490196078431
+"1606","transcription by RNA polymerase II","RPS6KA1",5.8134469273743
+"1607","transcription by RNA polymerase II","INTS13",1.64439655172414
+"1608","transcription by RNA polymerase II","ETV6",2.57494017094017
+"1609","transcription by RNA polymerase II","CREB5",3.70352777777778
+"1610","transcription by RNA polymerase II","ZNF550",1.77864516129032
+"1611","transcription by RNA polymerase II","ATXN7",-0.89154347826087
+"1612","transcription by RNA polymerase II","IRX5",-1.51342857142857
+"1613","transcription by RNA polymerase II","USF2",-0.597047999999999
+"1614","transcription by RNA polymerase II","KDM2B",2.27852380952381
+"1615","transcription by RNA polymerase II","RELB",-3.97656198347107
+"1616","transcription by RNA polymerase II","ZNF680",4.02437404580153
+"1617","transcription by RNA polymerase II","HOXA4",-2.52135294117647
+"1618","transcription by RNA polymerase II","MAGEB2",4.39077358490566
+"1619","transcription by RNA polymerase II","ZNF268",1.94423770491803
+"1620","transcription by RNA polymerase II","SMARCD3",-1.1427265625
+"1621","transcription by RNA polymerase II","ZNF341",5.56773214285714
+"1622","transcription by RNA polymerase II","NR2F6",0.872768595041322
+"1623","transcription by RNA polymerase II","CCND3",7.12449056603773
+"1624","transcription by RNA polymerase II","USP9X",0.157632478632479
+"1625","transcription by RNA polymerase II","TLX1",1.94435643564356
+"1626","transcription by RNA polymerase II","MNX1",1.3237641509434
+"1627","transcription by RNA polymerase II","ZFP64",1.45527205882353
+"1628","transcription by RNA polymerase II","NRARP",-1.34846363636364
+"1629","transcription by RNA polymerase II","PROX1",-3.03971559633027
+"1630","transcription by RNA polymerase II","ID1",7.06989108910891
+"1631","transcription by RNA polymerase II","HES3",1.837
+"1632","transcription by RNA polymerase II","UBE2D3",2.25707818930041
+"1633","transcription by RNA polymerase II","MED6",1.73226993865031
+"1634","transcription by RNA polymerase II","ZNF579",3.89034615384615
+"1635","transcription by RNA polymerase II","TET2",4.83614876033058
+"1636","transcription by RNA polymerase II","ETV3",1.64311875
+"1637","transcription by RNA polymerase II","ZHX1",2.17730630630631
+"1638","transcription by RNA polymerase II","ZNF850",-0.835447619047619
+"1639","transcription by RNA polymerase II","IKZF2",0.535715447154472
+"1640","transcription by RNA polymerase II","GSC2",-4.26838613861386
+"1641","transcription by RNA polymerase II","PURB",1.18850694444444
+"1642","transcription by RNA polymerase II","RBAK",2.45651829268293
+"1643","transcription by RNA polymerase II","TAF13",5.4725701754386
+"1644","transcription by RNA polymerase II","ZNF74",3.83675384615385
+"1645","transcription by RNA polymerase II","OLIG2",0.481404761904762
+"1646","transcription by RNA polymerase II","POLR2E",4.02520567375887
+"1647","transcription by RNA polymerase II","MYT1L",1.21879310344828
+"1648","transcription by RNA polymerase II","CUX1",5.06254385964912
+"1649","transcription by RNA polymerase II","GLYR1",8.03013725490196
+"1650","transcription by RNA polymerase II","SOX4",-1.20075454545455
+"1651","transcription by RNA polymerase II","TBXT",3.01036936936937
+"1652","transcription by RNA polymerase II","FOXO4",1.48817391304348
+"1653","transcription by RNA polymerase II","PPARD",4.18376
+"1654","transcription by RNA polymerase II","KLF9",-5.19609375
+"1655","transcription by RNA polymerase II","MLLT6",1.81683620689655
+"1656","transcription by RNA polymerase II","ZNF215",4.65004411764706
+"1657","transcription by RNA polymerase II","FSTL3",3.2584
+"1658","transcription by RNA polymerase II","SIM1",1.861225
+"1659","transcription by RNA polymerase II","NFIB",-2.93631147540984
+"1660","transcription by RNA polymerase II","GLI4",3.91878048780488
+"1661","transcription by RNA polymerase II","TEAD3",-6.41766137566138
+"1662","transcription by RNA polymerase II","SNF8",5.75875454545455
+"1663","transcription by RNA polymerase II","ZNF530",6.23266013071895
+"1664","transcription by RNA polymerase II","RIPK1",-1.27068907563025
+"1665","transcription by RNA polymerase II","NKX6-2",5.83370370370371
+"1666","transcription by RNA polymerase II","SKI",4.09915315315315
+"1667","transcription by RNA polymerase II","CASZ1",3.25991240875912
+"1668","transcription by RNA polymerase II","MED1",8.64577777777778
+"1669","transcription by RNA polymerase II","KDM2A",-2.39808823529412
+"1670","transcription by RNA polymerase II","OTUD7B",1.70816981132075
+"1671","transcription by RNA polymerase II","ELK4",3.20176923076923
+"1672","transcription by RNA polymerase II","IRF2BPL",6.63539285714286
+"1673","transcription by RNA polymerase II","ASCL2",6.5857
+"1674","transcription by RNA polymerase II","ZNF527",-1.7231
+"1675","transcription by RNA polymerase II","MECOM",3.12173684210526
+"1676","transcription by RNA polymerase II","TTC21B",1.83321705426357
+"1677","transcription by RNA polymerase II","ZNF736",3.82413846153846
+"1678","transcription by RNA polymerase II","HOMEZ",6.61112230215827
+"1679","transcription by RNA polymerase II","ELP2",4.15764444444444
+"1680","transcription by RNA polymerase II","MYO1C",3.39400609756098
+"1681","transcription by RNA polymerase II","ZNF572",0.739692307692308
+"1682","transcription by RNA polymerase II","ANXA4",-3.3978431372549
+"1683","transcription by RNA polymerase II","MZF1",1.55219402985075
+"1684","transcription by RNA polymerase II","TFDP1",-2.10745283018868
+"1685","transcription by RNA polymerase II","NUCKS1",-0.917269938650307
+"1686","transcription by RNA polymerase II","ZNF623",2.86491891891892
+"1687","transcription by RNA polymerase II","TWIST1",5.05020661157025
+"1688","transcription by RNA polymerase II","PLSCR1",2.01127272727273
+"1689","transcription by RNA polymerase II","RBL2",-0.804036363636364
+"1690","transcription by RNA polymerase II","ZNF222",5.81634862385321
+"1691","transcription by RNA polymerase II","ZNF232",6.38981372549019
+"1692","transcription by RNA polymerase II","HOXA3",-9.12504716981132
+"1693","transcription by RNA polymerase II","NR5A1",-4.96371287128713
+"1694","transcription by RNA polymerase II","WAS",4.07263513513514
+"1695","transcription by RNA polymerase II","MTA2",5.42431355932203
+"1696","transcription by RNA polymerase II","ETS1",-3.59953271028037
+"1697","transcription by RNA polymerase II","IRF5",4.64355084745763
+"1698","transcription by RNA polymerase II","ZC3H12A",6.20014285714286
+"1699","transcription by RNA polymerase II","PEX2",3.83511650485437
+"1700","transcription by RNA polymerase II","FOXI1",1.44487428571429
+"1701","transcription by RNA polymerase II","KAT2A",5.3169014084507
+"1702","transcription by RNA polymerase II","NFATC2",-1.75001234567901
+"1703","transcription by RNA polymerase II","ATF1",-0.150587155963303
+"1704","transcription by RNA polymerase II","CCDC124",-1.44413533834586
+"1705","transcription by RNA polymerase II","RARA",5.0905375
+"1706","transcription by RNA polymerase II","CREBL2",0.752758620689655
+"1707","transcription by RNA polymerase II","ZEB1",-5.49546601941748
+"1708","transcription by RNA polymerase II","ZIC3",1.35415833333333
+"1709","transcription by RNA polymerase II","RIPK2",-2.72317213114754
+"1710","transcription by RNA polymerase II","KCNIP3",2.65167326732673
+"1711","transcription by RNA polymerase II","KLF11",0.399168421052632
+"1712","transcription by RNA polymerase II","BCOR",-0.450338842975207
+"1713","transcription by RNA polymerase II","WWC2",-0.507172727272727
+"1714","transcription by RNA polymerase II","HOXC8",2.79115596330275
+"1715","transcription by RNA polymerase II","ATXN7L3",3.88531693989071
+"1716","transcription by RNA polymerase II","WDR43",1.99016030534351
+"1717","transcription by RNA polymerase II","MLLT3",-0.51181954887218
+"1718","transcription by RNA polymerase II","ZBTB7A",-0.985745098039216
+"1719","transcription by RNA polymerase II","CSRNP3",3.182
+"1720","transcription by RNA polymerase II","LBX2",5.66341176470588
+"1721","transcription by RNA polymerase II","FOXE3",5.09370476190476
+"1722","transcription by RNA polymerase II","ZNF345",-7.19012213740458
+"1723","transcription by RNA polymerase II","MBTPS2",2.68220740740741
+"1724","transcription by RNA polymerase II","NFATC2IP",-2.41825517241379
+"1725","transcription by RNA polymerase II","ZNF324B",-0.33426724137931
+"1726","transcription by RNA polymerase II","KLF13",4.04594482758621
+"1727","transcription by RNA polymerase II","MAGED2",0.551802325581395
+"1728","transcription by RNA polymerase II","BRIP1",8.08720134228188
+"1729","transcription by RNA polymerase II","ARNTL2",1.20788333333333
+"1730","transcription by RNA polymerase II","SIX6",-9.03729197080292
+"1731","transcription by RNA polymerase II","CIAO1",-0.78695045045045
+"1732","transcription by RNA polymerase II","TFCP2",2.96547580645161
+"1733","transcription by RNA polymerase II","PDX1",0.454629310344827
+"1734","transcription by RNA polymerase II","PPP1R12A",-4.22255156950673
+"1735","transcription by RNA polymerase II","HTATSF1",5.96941176470588
+"1736","transcription by RNA polymerase II","PIR",9.55933333333333
+"1737","transcription by RNA polymerase II","HIPK2",6.73891262135922
+"1738","regulation of transcription by RNA polymerase II","RPS6KA1",5.8134469273743
+"1739","regulation of transcription by RNA polymerase II","ETV6",2.57494017094017
+"1740","regulation of transcription by RNA polymerase II","CREB5",3.70352777777778
+"1741","regulation of transcription by RNA polymerase II","ZNF550",1.77864516129032
+"1742","regulation of transcription by RNA polymerase II","ATXN7",-0.89154347826087
+"1743","regulation of transcription by RNA polymerase II","IRX5",-1.51342857142857
+"1744","regulation of transcription by RNA polymerase II","USF2",-0.597047999999999
+"1745","regulation of transcription by RNA polymerase II","KDM2B",2.27852380952381
+"1746","regulation of transcription by RNA polymerase II","RELB",-3.97656198347107
+"1747","regulation of transcription by RNA polymerase II","ZNF680",4.02437404580153
+"1748","regulation of transcription by RNA polymerase II","HOXA4",-2.52135294117647
+"1749","regulation of transcription by RNA polymerase II","MAGEB2",4.39077358490566
+"1750","regulation of transcription by RNA polymerase II","ZNF268",1.94423770491803
+"1751","regulation of transcription by RNA polymerase II","SMARCD3",-1.1427265625
+"1752","regulation of transcription by RNA polymerase II","ZNF341",5.56773214285714
+"1753","regulation of transcription by RNA polymerase II","NR2F6",0.872768595041322
+"1754","regulation of transcription by RNA polymerase II","CCND3",7.12449056603773
+"1755","regulation of transcription by RNA polymerase II","USP9X",0.157632478632479
+"1756","regulation of transcription by RNA polymerase II","TLX1",1.94435643564356
+"1757","regulation of transcription by RNA polymerase II","MNX1",1.3237641509434
+"1758","regulation of transcription by RNA polymerase II","ZFP64",1.45527205882353
+"1759","regulation of transcription by RNA polymerase II","NRARP",-1.34846363636364
+"1760","regulation of transcription by RNA polymerase II","PROX1",-3.03971559633027
+"1761","regulation of transcription by RNA polymerase II","ID1",7.06989108910891
+"1762","regulation of transcription by RNA polymerase II","HES3",1.837
+"1763","regulation of transcription by RNA polymerase II","UBE2D3",2.25707818930041
+"1764","regulation of transcription by RNA polymerase II","MED6",1.73226993865031
+"1765","regulation of transcription by RNA polymerase II","ZNF579",3.89034615384615
+"1766","regulation of transcription by RNA polymerase II","TET2",4.83614876033058
+"1767","regulation of transcription by RNA polymerase II","ETV3",1.64311875
+"1768","regulation of transcription by RNA polymerase II","ZHX1",2.17730630630631
+"1769","regulation of transcription by RNA polymerase II","ZNF850",-0.835447619047619
+"1770","regulation of transcription by RNA polymerase II","IKZF2",0.535715447154472
+"1771","regulation of transcription by RNA polymerase II","GSC2",-4.26838613861386
+"1772","regulation of transcription by RNA polymerase II","PURB",1.18850694444444
+"1773","regulation of transcription by RNA polymerase II","RBAK",2.45651829268293
+"1774","regulation of transcription by RNA polymerase II","TAF13",5.4725701754386
+"1775","regulation of transcription by RNA polymerase II","ZNF74",3.83675384615385
+"1776","regulation of transcription by RNA polymerase II","OLIG2",0.481404761904762
+"1777","regulation of transcription by RNA polymerase II","MYT1L",1.21879310344828
+"1778","regulation of transcription by RNA polymerase II","CUX1",5.06254385964912
+"1779","regulation of transcription by RNA polymerase II","GLYR1",8.03013725490196
+"1780","regulation of transcription by RNA polymerase II","SOX4",-1.20075454545455
+"1781","regulation of transcription by RNA polymerase II","TBXT",3.01036936936937
+"1782","regulation of transcription by RNA polymerase II","FOXO4",1.48817391304348
+"1783","regulation of transcription by RNA polymerase II","PPARD",4.18376
+"1784","regulation of transcription by RNA polymerase II","KLF9",-5.19609375
+"1785","regulation of transcription by RNA polymerase II","MLLT6",1.81683620689655
+"1786","regulation of transcription by RNA polymerase II","ZNF215",4.65004411764706
+"1787","regulation of transcription by RNA polymerase II","FSTL3",3.2584
+"1788","regulation of transcription by RNA polymerase II","SIM1",1.861225
+"1789","regulation of transcription by RNA polymerase II","NFIB",-2.93631147540984
+"1790","regulation of transcription by RNA polymerase II","GLI4",3.91878048780488
+"1791","regulation of transcription by RNA polymerase II","TEAD3",-6.41766137566138
+"1792","regulation of transcription by RNA polymerase II","SNF8",5.75875454545455
+"1793","regulation of transcription by RNA polymerase II","ZNF530",6.23266013071895
+"1794","regulation of transcription by RNA polymerase II","RIPK1",-1.27068907563025
+"1795","regulation of transcription by RNA polymerase II","NKX6-2",5.83370370370371
+"1796","regulation of transcription by RNA polymerase II","SKI",4.09915315315315
+"1797","regulation of transcription by RNA polymerase II","CASZ1",3.25991240875912
+"1798","regulation of transcription by RNA polymerase II","MED1",8.64577777777778
+"1799","regulation of transcription by RNA polymerase II","KDM2A",-2.39808823529412
+"1800","regulation of transcription by RNA polymerase II","OTUD7B",1.70816981132075
+"1801","regulation of transcription by RNA polymerase II","ELK4",3.20176923076923
+"1802","regulation of transcription by RNA polymerase II","IRF2BPL",6.63539285714286
+"1803","regulation of transcription by RNA polymerase II","ASCL2",6.5857
+"1804","regulation of transcription by RNA polymerase II","ZNF527",-1.7231
+"1805","regulation of transcription by RNA polymerase II","MECOM",3.12173684210526
+"1806","regulation of transcription by RNA polymerase II","TTC21B",1.83321705426357
+"1807","regulation of transcription by RNA polymerase II","ZNF736",3.82413846153846
+"1808","regulation of transcription by RNA polymerase II","HOMEZ",6.61112230215827
+"1809","regulation of transcription by RNA polymerase II","ELP2",4.15764444444444
+"1810","regulation of transcription by RNA polymerase II","MYO1C",3.39400609756098
+"1811","regulation of transcription by RNA polymerase II","ZNF572",0.739692307692308
+"1812","regulation of transcription by RNA polymerase II","ANXA4",-3.3978431372549
+"1813","regulation of transcription by RNA polymerase II","MZF1",1.55219402985075
+"1814","regulation of transcription by RNA polymerase II","TFDP1",-2.10745283018868
+"1815","regulation of transcription by RNA polymerase II","NUCKS1",-0.917269938650307
+"1816","regulation of transcription by RNA polymerase II","ZNF623",2.86491891891892
+"1817","regulation of transcription by RNA polymerase II","TWIST1",5.05020661157025
+"1818","regulation of transcription by RNA polymerase II","PLSCR1",2.01127272727273
+"1819","regulation of transcription by RNA polymerase II","RBL2",-0.804036363636364
+"1820","regulation of transcription by RNA polymerase II","ZNF222",5.81634862385321
+"1821","regulation of transcription by RNA polymerase II","ZNF232",6.38981372549019
+"1822","regulation of transcription by RNA polymerase II","HOXA3",-9.12504716981132
+"1823","regulation of transcription by RNA polymerase II","NR5A1",-4.96371287128713
+"1824","regulation of transcription by RNA polymerase II","WAS",4.07263513513514
+"1825","regulation of transcription by RNA polymerase II","MTA2",5.42431355932203
+"1826","regulation of transcription by RNA polymerase II","ETS1",-3.59953271028037
+"1827","regulation of transcription by RNA polymerase II","IRF5",4.64355084745763
+"1828","regulation of transcription by RNA polymerase II","ZC3H12A",6.20014285714286
+"1829","regulation of transcription by RNA polymerase II","PEX2",3.83511650485437
+"1830","regulation of transcription by RNA polymerase II","FOXI1",1.44487428571429
+"1831","regulation of transcription by RNA polymerase II","KAT2A",5.3169014084507
+"1832","regulation of transcription by RNA polymerase II","NFATC2",-1.75001234567901
+"1833","regulation of transcription by RNA polymerase II","ATF1",-0.150587155963303
+"1834","regulation of transcription by RNA polymerase II","RARA",5.0905375
+"1835","regulation of transcription by RNA polymerase II","CREBL2",0.752758620689655
+"1836","regulation of transcription by RNA polymerase II","ZEB1",-5.49546601941748
+"1837","regulation of transcription by RNA polymerase II","ZIC3",1.35415833333333
+"1838","regulation of transcription by RNA polymerase II","RIPK2",-2.72317213114754
+"1839","regulation of transcription by RNA polymerase II","KCNIP3",2.65167326732673
+"1840","regulation of transcription by RNA polymerase II","KLF11",0.399168421052632
+"1841","regulation of transcription by RNA polymerase II","BCOR",-0.450338842975207
+"1842","regulation of transcription by RNA polymerase II","WWC2",-0.507172727272727
+"1843","regulation of transcription by RNA polymerase II","HOXC8",2.79115596330275
+"1844","regulation of transcription by RNA polymerase II","ATXN7L3",3.88531693989071
+"1845","regulation of transcription by RNA polymerase II","MLLT3",-0.51181954887218
+"1846","regulation of transcription by RNA polymerase II","ZBTB7A",-0.985745098039216
+"1847","regulation of transcription by RNA polymerase II","CSRNP3",3.182
+"1848","regulation of transcription by RNA polymerase II","LBX2",5.66341176470588
+"1849","regulation of transcription by RNA polymerase II","FOXE3",5.09370476190476
+"1850","regulation of transcription by RNA polymerase II","ZNF345",-7.19012213740458
+"1851","regulation of transcription by RNA polymerase II","MBTPS2",2.68220740740741
+"1852","regulation of transcription by RNA polymerase II","NFATC2IP",-2.41825517241379
+"1853","regulation of transcription by RNA polymerase II","ZNF324B",-0.33426724137931
+"1854","regulation of transcription by RNA polymerase II","KLF13",4.04594482758621
+"1855","regulation of transcription by RNA polymerase II","MAGED2",0.551802325581395
+"1856","regulation of transcription by RNA polymerase II","BRIP1",8.08720134228188
+"1857","regulation of transcription by RNA polymerase II","ARNTL2",1.20788333333333
+"1858","regulation of transcription by RNA polymerase II","SIX6",-9.03729197080292
+"1859","regulation of transcription by RNA polymerase II","CIAO1",-0.78695045045045
+"1860","regulation of transcription by RNA polymerase II","TFCP2",2.96547580645161
+"1861","regulation of transcription by RNA polymerase II","PDX1",0.454629310344827
+"1862","regulation of transcription by RNA polymerase II","PPP1R12A",-4.22255156950673
+"1863","regulation of transcription by RNA polymerase II","HTATSF1",5.96941176470588
+"1864","regulation of transcription by RNA polymerase II","HIPK2",6.73891262135922
